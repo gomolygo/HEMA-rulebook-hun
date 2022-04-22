@@ -1,170 +1,108 @@
-# Organisational Rules
+# A szervezés szabályai
 
-1. The competition is open to athletes of 18 years and older.
+1.  A verseny 18. (különös esetekben 16.) életévüket betöltött személyek számára nyitott.
 
-2. It is prohibited to enter a competition under the influence of alcohol or performance-altering
-   drugs (including recreational drugs and those prescribed by physicians).
+2.  Tilos a versenyen való részvétel alkohol, illetve teljesítményfokozó drogok befolyása alatt (beleértve a rekreációs és orvos által felírt készítményeket is).
 
-## The Refereeing system
+## A bíráskodás rendszere
 
-### Main Referee
+### A Bíró
 
-1.  The Referee works with an Assistant (side Referee) and manages the time and protocol (when
-    necessary, supported by an administrative crew).
+1.  A bíró egy segéddel együtt dolgozik, vezeti a jegyzőkönyvet, és kezeli az időmérést (szükség esetén adminisztratív személyzet támogatásával).
 
-2.  The Referee gives the signals to start, stop, assigns points and describes what happened during
-    the entire assault or at least the last exchange.
+2.  A bíró adja ki a mérkőzés elkezdését, megállítását szolgáló jelzéseket, pontokat ítél meg, és interpretálja az asszó, vagy legalább az ítélet szempontjából releváns akciósor történéseit.
 
-3.  After stopping the bout, the Referee consults with the Assistant and proposes a result. If the
-    fencers accept the decision (they say nothing), the fight continues with the proposed score. If
-    they don’t agree with the Referee, but they agree with each other, the Referee may make a
-    decision according to their wishes. If any of the fencers protests and the fencers disagree with
-    each other, the Referee will decide whether to assign a point (being completely sure) or repeat
-    the assault.
+3.  A harc megállítása után a bíró egyeztet a segédbíróval (kézjelekkel jelzi az akciót és a találatot, a segéd szükség esetén jelzi, ha az ő szemszögéből korábban is esett találat a bíró által interpretált akciók során; szükség esetén a bíró szóban is konzultálhat a segéddel), végül javasol egy ítéletet. Ha a vívók elfogadják az döntést (azaz nem kérnek felülvizsgálatot), a küzdelem a bíró által javasolt ítélettel folytatódik. Ha valamelyik vívó felülvizsgálatot kér, de az ellenfele nem ért vele egyet, a bíró megismételheti az asszót, vagy ha meggyőződéssel döntést tud hozni, ítélhet pontot a kérdéses akcióért.
 
-4.  If the Referee is unable to interpret the fencing phrase for some reason, they can repeat the
-    exchange but will explain and apologise.
+4.  Ha a bíró valamiért nem tudja interpretálni a végrehajtott akciósort, annak okát ismertetnie kell. Ilyenkor megismételtetheti az asszót, és az esetleges hibájáért illendő elnézést kérnie.
 
-5.  The Referee's decisions can not be contested after the bout.
+5.  A bírói ítéletei a mérkőzés végeztével visszamenőleg nem képezik vita tárgyát.
 
-6.  Main referee must be able conduct and manage bouts in English.
+6. A bíró képes kell legyen a mérkőzések angol nyelvű vezetésére, beleértve a szabályok és az akciók interpretációját.
 
-### Side Referee (Assistant Referee)
+### A segédbíró
 
-1. An Assistant Referee helps the main Referee in scoring and hit evaluation. Their task is to
-   observe a match from a different angle than the main Referee.
+1.  A bírót egy segédbíró segíti a pontok megítélésében és a találatok értékelésében.
 
-2. The Assistant may signal hits made by the fencers to the Referee by raising their arm, even if
-   the Referee does not halt the assault immediately.
+2.  Fő feladata a mérkőzés megfigyelése a bíróétól eltérő szögből (a vívók másik oldaláról). Miután a Bíró megállította a mérkőzést, a segédbíró szükség esetén hozzájárul az akció megítéléséhez.
 
-3. An Assistant Referee is not responsible for point assignment nor for the overall match score.
+3.  A segédbíró nem felel a pontok megítéléséért, sem a mérkőzés végső kimeneteléért.
 
-## Organisation of the competitions and classification
+## A versenyek szervezése és minősítése
 
-### The round of pools
+### Csoportmérkőzések
 
-1.  In all competitions for which the formula includes a round of pools, these pools will consist of
-    7 fencers if the number of participants is divisible by 7. Otherwise the pools will be of 7 and
-    6 fencers.
+1.  Minden versenyszámban, amelynek részét képezi csoportmérkőzés, a csoportok 7 versenyzőből állnak, amennyiben a versenyzők száma osztható 7-tel. Egyébként 7 és 6 fős csoportokat kell hirdetni.
 
-2.  In the pools a bout ends when:
-    1. One of the fencers has scored 5 hits. In this case the score registered on the score- sheet
-       is the final score of the bout (V5 – Dn, where n = the number of hits scored by the losing
-       fencer).
-    2. Three minutes of effective fencing time have passed. (There is no warning for the last
-       minute.)
+2.  A csoportmérkőzések során egy mérkőzés akkor ér véget, ha:
+    1. Az egyik vívó elér 5 (öt) pontot. Ebben az esetben a pontozó lapon feltüntetett pont az összecsapás végső pontszáma (V5-Dn, ahol ‘n’ a vesztes vívó által szerzett  pontok száma)
+    2. Eltelt 3 perc tényleges vívó idő. (Nincs figyelmeztetés az utolsó percnél.)
 
-3.  If when the time limit expires there is a difference of at least one point between the scores of
-    the two fencers, the fencer who has scored the greater number of hits is declared winner. The
-    score registered on the score-sheet is the actual score achieved in the bout (VN – Dn, where N =
-    the number of hits scored by the winning fencer and n = the number of hits scored by the losing
-    fencer).
+3.  Amennyiben a vívó idő leteltekor a vívók közti pontkülönbség legalább 1, a több pontot szerzett vívó a győztes. A pontozó lapon feltüntetett pont az összecsapás során ténylegesen szerzett pontok száma (VN – Dn, ahol N= a győztes vívó által szerzett pontok száma és n= a vesztes vívó által szerzett pontok száma).
 
-4.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
-    with a maximum time limit of one minute. Before the fencing recommences, the Referee draws lots
-    to decide who will be the winner if scores are still equal at the end of the extra minute.
+4.  Amennyiben a szabályszerű idő leteltekor a szerzett pontok száma egyenlő, a vívás folytatódik egy győztes találatért, legfeljebb 1 percig - az nyeri a mérkőzést, aki beadja az első pontkülönbséget eredményező találatot. A vívás újrakezdése előtt a bíró kisorsolja, ki lesz a győztes, amennyiben az egy perc letelte után a pontok száma még mindig egyenlő.
 
-5.  In this case the score registered on the score-sheet is always the actual score achieved in the
-    bout:
-    1. VN–Dn if a deciding hit is scored within the time limit for the bout.
-    2. V4–D4 or V3–D3 or V2–D2 or V1–D1 or V0–D0 if the winner is designated by drawing lots.
-    3. Vn-DN, VN-Dn or Vn-Dn in case a single bout is forfeited due to injury or equipment
-       malfunction but the rest of the bouts have been completed regularly. It is always the fencer
-       who did not forfeit the bout who is registered as victorious, even though the scores are not
-       annulled.
-    4. V0-D0 in case a fencer is withdrawn or removed from the competition, marking the opponent as
-       the winner, but not registering any scores, for all of the fencer’s bouts in the pool..
+5.  Ebben az esetben a pontozó lapon feltüntetett eredmény mindig az összecsapás során szerzett tényleges pontok száma:
+    1. VN – Dn, ha a döntő találat a mérkőzés időkeretén belül esik.
+    2. V6 – D6 vagy V4 – D4 vagy V2 – D2 vagy V1 – D1 vagy V0 – D0 amennyiben a győztes sorshúzással kijelölték ki.
+    3. Vn – DN, VN – Dn, abban az esetben, ha egy vívó a csoportban egyetlen mérkőzéstől lép vissza felszerelés meghibásodás vagy sérülés miatt, de a többi mérkőzését be tudja fejezni. Minden esetben a visszalépő versenyző ellenfelét kell győztesként regisztrálni, habár a szerzett pontok nem kerülnek törlésre.
+    4. V0 – D0 abban az esetben, ha az egyik vívó visszavonul vagy kizárásra kerül a versenyszámból, így győztesnek nyilvánítva az ellenfelet. A csoportkörben a versenyzéstől visszalépő vívó mérkőzésein regisztrált pontszámok törlésre kerülnek.
 
-6.  Before the competition starts, the Organising Team will decide on and announce the number of
-    fencers who will be eliminated based on the ranking established by the pools (0-40%).
+6.  A versenyszámok kezdete előtt a Szervező Csapat eldönti és kihirdeti hány versenyző esik ki a felállított rangsor alapján (0-40%).
 
-7.  After the pools, a single general ranking will be established of all the fencers who have taken
-    part in the pools, taking account, successively, of the indices V/M, HS – HR, HS. (V =
-    victories; M = bouts; HS = hits scored; HR = hits received.)
+7.  A csoportmérkőzések után a jegyzőkönyv alapján felállítják a résztvevők rangsorát, a következő mutatók egymás utáni figyelembe vételével: V/M, HS – HR, HS. (V = győzelmek; M = mérkőzések; HS = adott találatok; HR = kapott találatok.)
 
-8.  A summary classification table shall then be made in the following way:
-    1. The results written up on the summary table will be added up to ascertain the two indices
-       required.
-    2. The first index, for the initial classification, shall be obtained by dividing the number of
-       victories by the number of bouts fought, using the formula V/M.
-    3. The fencer with the highest index (maximum 1) will be seeded first.
-    4. In cases of equality in this first index, and to separate fencers with equal first indices, a
-       second index will be established, using the formula HS – HR, the difference between the total
-       number of hits scored and hits received.
-    5. In cases of equality of the two indices V/M and HS – HR, the fencer who has scored most hits
-       will be seeded highest.
-    6. In cases of absolute equality between two or more fencers, their seeding order will be
-       decided by drawing lots.
+8.  Az összegzett rangsor tábla a következő módon alakul ki:
+    1. A csoportkör összefoglaló tábláán szereplő értékek összegzésével ki kell számítani a két szükséges indexet (V/M, HS-HR).
+    2. Az kezdeti besoroláshoz szükséges első index a győzelmek számának a mérkőzések számával való osztásával kerül meghatározásra, a V/M egyenlet alapján.
+    3. A legmagasabb (maximum 1) indexszel rendelkező vívó kerül a tábla első helyére.
+    4. Az esetben, ha az első index értéke valamely vívók esetén megegyezik, az egyenlő indexű vívók rangsorolásához egy másodlagos index kerül meghatározásra, a HS – HR képlet alapján, az adott (Hits Scored) és a kapott (Hits Received) találatok számának különbsége.
+    5. Ha valamely vívók mindkét indexe (V / M és HS – HR) megegyezik, a több találatot adott versenyző kerül előrébb a rangsorban.
+    6. Kettő vagy több vívó közti abszolút egyenlőség esetén a sorrend sorshúzással kerül meghatározásra.
 
-9.  Should there be absolute equality among the last to qualify there will not be a barrage, and the
-    fencers with equal indicators will all qualify, even if they are in excess of the number decided
-    on.
+9.  Ha az utolsó helyen kvalifikált versenyzők között abszolút egyenlőség áll fenn, minden megegyező pontszámú versenyző továbbjut, akkor is, ha a számuk meghaladja az előre meghatározott továbbjutók számát.
 
-10. A fencer who withdraws, or who is excluded, is scratched from the pool, His/her results are
-    recorded as if all of their opponents had won against the fencer, but no score will be
-    registered (V0-D0). The fencer who is withdrawn or excluded during the pool, will not be
-    included in the calculation of the ranking for the direct elimination table.
+10.  Az a vívó, aki a versenyzéstől visszalép, vagy kizárásra kerül, törlendő a csoportból, az eredményeit úgy számítják be, mintha minden ellenfelük legyőzte volna őket, de pontszámokat nem rögzítik (V0 – D0). Az a versenyző, aki a csoportkörben visszalép vagy kizárásra kerül, nem jelenik meg az egyenes kiesés rangsorában.
 
-11. When a fencer withdraws from one pool bout only, they are declared as having lost the bout, but
-    the score established before is not annulled.
+11. Ha egy versenyző egyetlen mérkőzést ad csak fel, vesztesnek kell nyilvánítani abban a mérkőzésben, de az addig rögzített pontokat nem törlik.
 
-## The direct elimination
+## Egyenes kieséses mérkőzések
 
-1.  The direct elimination table (bout plan) – complete or incomplete – is established taking
-    account of the classification table and the special rules for each competition (See Figure 2.)
+1.  A – teljes vagy nem teljes – egyenes kieséses táblát a rangsor és az adott versenyszám vonatkozó szabályai szerint (lásd 2.-es ábra) kell létrehozni.
 
-2.  The organisers of a competition publish the direct elimination bout plan. The direct elimination
-    bouts are for 7 hits or end when the two periods of three minutes, with a one-minute rest
-    between the two periods, have passed.
+2.  A verseny szervezői közzéteszik az egyenes kieséses mérkőzések tervezetét. Az egyenes kieséses mérkőzéseket 7 pont eléréséig, vagy az 1 perces szünettel elválasztott 2 * 3 perc vívóidő leteltéig vívják, 
 
-3.  During the one-minute rest a second/coach, named before the bout, may have access to the fencer.
+3.  Az egyperces szünet alatt egy, a mérkőzés előtt kijelölt segéd vagy edző hozzáférhet a versenyzőhöz.
 
-4.  The bout ends when:
-    1. One of the fencers has scored 7 hits; or
-    2. 2 * 3 minutes of effective fencing time have passed.
+4.  A mérkőzés akkor ér véget, ha
+    1. Az egyik versenyző elér 7 (hét) pontot; vagy
+    2. a 2×3 perc tényleges vívó idő letelik.
+5.  Az a versenyző lesz a nyertes, aki több pontot szerzett.
 
-5.  The fencer who has scored the greater number of hits is declared the winner.
+6.  Ha a szabályokban foglalt idő leteltekor a pontszámok egyenlőek, a vívók győztes pontért küzdenek, maximum egy percig. Az összecsapás kezdete előtt a bíró kisorsolja (pénzfeldobással), ki lesz a győztes abban az esetben, ha a pontok a plusz egy perc leteltével még mindig egyenlőek. A pontozólapon feltüntetett pontszámok az összecsapás során ténylegesen megszerzett pontszámok.
 
-6.  If at the end of regulation time the scores are equal, the fencers fence for a deciding hit,
-    with a maximum time limit of one minute. Before the fencing recommences the Referee draws lots
-    to decide who will be the winner if scores are still equal at the end of the extra minute. In
-    this case the score recorded on the score-sheet is the real score achieved in the bout.
+7.  Visszalépés: Ha, bármilyen okból kifolyólag, az egyik versenyző nem képes folytatni a küzdelmet, vagy befejezni a mérkőzést, az ellenfelet nyilvánítják győztesnek. A visszalépő vívó nem veszti el helyezését az összesített rangsorban.
 
-7.  Withdrawal: When, for whatever reason, a fencer cannot fence, or cannot complete their bout,
-    their opponent is declared winner of that bout. A fencer who withdraws does not lose their place
-    in the overall classification of the competition.
+## A mérkőzések sorrendje
 
-## Order of bouts
+1.  Az egyenes kieséses tábla minden fordulójában (256, 128, 64, 32, 16, 8, 4) a mérkőzéseket mindig a táblázat szerint fentről lefelé haladva hirdetik ki.
 
-1. In each round of the direct elimination table (256, 128, 64, 32, 16, 8 or 4), the bouts are
-   always called in the order of the bout plan, starting at the top and ending at the bottom.
+## Értékelés
 
-## Classification
+1.  Az általános rangsort a következők szerint kell felállítani:
+    1. Első: Az első helyért vívott mérkőzés győztese
+    2. Második: az első helyért vívott mérkőzés vesztese.
+    3. A harmadik és negyedik helyért az elődöntők két vesztese vív.
+    4. A többi versenyző helyezése minden egyes körben az egyenes kiesés során elért helyükkel egyezik meg.
 
-1. The general classification is obtained as follows:
-   1. First: the winner of the bout for the first place
-   2. Second: the loser of the bout for the first place
-   3. A bout for third and fourth places will be fought between the two losers of the semi-final
-      matches.
-   4. The remainder are placed, within each round of the direct elimination, in accordance with
-      their classification for the composition of the direct elimination table.
+## Versenyszemélyzet
 
-## Tournament Staff
+1.  Orvosi/mentős személyzet gondoskodik a versenyzők esetleges sérüléseinek, rosszullétének vizsgálatáról és ellátásáról a mérkőzések közben és után, és szakvéleményt ad annak közvetlen kimeneteléről.
 
-1.  Medical/paramedic staff will assess possible injury/illness of the participants during/after
-    bouts and advise on immediate management.
+2.  A szervező csapat vezetője felelős a verseny gördülékeny lebonyolításáért. A szervező csapat nyitott kérdésekre, reklamációkra, dicséretre, és javaslatokra a verseny előtt, közben és után.
 
-2.  The head of the Organising Team is responsible for the overall smooth running of the tournament.
-    The Organising Team is available for questions, complaints, compliments, and suggestions, before
-    during and after the event.
+3.  A Főbíró felügyeli a bírók és segédbírók elhelyezését és teljesítményét. A bírói bizottsághoz a versenyzők vagy képviselőik személyesen fordulhatnak, ha bármikor kétség merül fel egy bíró vagy segédbíró teljesítménye kapcsán.
 
-3.  The head of the Refereeing Team oversees the allocation and performance of the Referees and
-    Assistants. The Refereeing committee can be approached directly by the participants or their
-    representatives, if questions regarding the performance of any of the Referees are raised.
+4.  A felszerelés ellenőrző csapat a verseny előtt elvégzi a védőfelszerelések és fegyverek ellenőrzését, és feljegyzi azon versenyzőket, akiknek a felszerelése megfelelőnek lett értékelve. Vezetőjük a Fegyvermester.
 
-4.  The head of Equipment Inspection performs pre-tournament checks of safety equipment and weapons,
-    stamps passed items and keeps a list of participants whose safety equipment has been deemed
-    satisfactory.
-
-5.  The Technical Team manages the technical infrastructure, including the competition management
-    software, ensuring that the events are recorded, stored, displayed correctly.
+6.  A technikai csapat kezeli a verseny technikai infrastruktúráját, beleértve a versenyszervezéshez használt szoftvert, gondoskodik az események megfelelő dokumentálásáról, tárolásáról és megjelenítéséről.
