@@ -1,12 +1,6 @@
-# Introduction
+# Bevezetés
 
-The goal of this event is to assess fencing in a safe and friendly manner on the principle of 'to
-touch without being touched'. In common with historical rule-sets, competitions are explicitly an
-abstracted test of skill, and not a simulation of an unregulated combat “to the finish” – in this
-sense, we shall regard each individual point as a separate "duel" within the framework of the
-following rules, the loss of which is indicated by having a point called against the losing fencer.
-Our intention is to determine the relative ranking, and the best fencer among the competitors
-present on the days of the competitions, in terms of tactical, technical, and athletic skills.
+A rendezvény célja a vívás biztonságos és barátságos értékelése a „találni úgy, hogy közben nem ér találat” elv alapján. A történelmi szabályrendszerekhez hasonlóan a verseny kifejezetten absztrahált képességek tesztje, nem pedig egy szabályozatlan, végsőkig folytatott harc szimulációja – ebben
+értelmében minden egyes pontot külön „párbajnak” tekintünk az alábbi szabályok kerettei között, amelyek elvesztését egy, a vesztes vívó ellen ítélt pont jelzi. Célunk az, hogy meghatározzuk a relatív rangsort, és a versenyzők közül az versenynapok alatt legjobbnak bizonyuló vívót taktikai, technikai és atlétikai képességek terén.
 
-One of the principles which stand above all others is the principle of fair play. Every functional
-ruleset should be efficient in providing equal opportunities for every tournament contestant.
+Az egyik alapelv, amely mindenek felett áll, a sportszerűség elve. Mindegyik működőképes szabályrendszernek hatékonynak kell lennie abban, hogy egyenlő esélyeket biztosítson minden versenyen résztvevő számára.
