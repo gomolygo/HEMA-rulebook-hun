@@ -34,7 +34,7 @@
 
 6.  A behajlított karral végrehajtott akciók, akár egyszerű, akár összetett, lépés vagy csel, nem jelentenek közvetlen fenyegetést, és nem minősülnek támadásnak, csak előkészítésnek, amelyek ki vannak téve az ellenfél által kezdeményezett támadásnak vagy közbetámadásnak. Az ilyen akciók közben elszenvedett támadásokból, közbetámadásokból származó találatok érvényesnek számítanak, és pontot érnek az előkészítésen ért vívó ellen.
 
-7. A támadás megfelelő voltának megítéléséhez az alábbi tényezőket kell figyelembe venni:
+7. A támadás megfelelőségének megítéléséhez az alábbi tényezőket kell figyelembe venni:
     1. Ha a támadás akkor indul, amikor az ellenfél passzív vonalban áll (pl. Hosszúhegy/Langort), akkor a támadónak először el kell térítenie az ellenfél pengéjét. A bíróknak gondoskodniuk kell arról, hogy egy egyszerű érintkezés önmagában ne legyen elegendőnek a penge eltérítésének megállapításához.
     2. Ha az eltérítést célzó pengekeresés sikertelen, a támadás joga átkerül az ellenfélhez.
     3. Ha a támadást olyankor kezdik meg, amikor az ellenfél pengéje nincs vonalban (pl. Hosszúhegy/Langort), a befejezés lehet direkt, kitérő, vagy kupé, vagy a befejezést megelőzhetik cselek, az ellenfél védését kiváltandó.
@@ -49,40 +49,22 @@
 10.  Részletes példák és leírások a Függelék: Vor/Elsőbbség kifejtése részében. 
 [Függelék: Vor/Elsőbbség](fuggelek/02-elsobbseg.md)
 
-## Close quarter combat
+## Közelharc
 
-1. Priority ceases to exist when the weapons of the opponents come together at *Stercke* on
-   *Stercke* (including the crossguard), and/or in case of grappling actions. In case the weapons
-   touch *Stercke* on *Stercke*, and a double hit follows immediately, both fencers are called a
-   point against. Otherwise, they may disengage and continue fencing (with priority rules), or enter
-   grappling (with grappling rules).
+1. Az elsőbbség megszűnik, amikor a fegyverek erős része találkozik (a keresztvasat is beleértve), és/vagy birkózó akciókban. Ha a pengék erős részének érintkezése után a vívók azonnal eltalálják egymást, akkor mindkettejük ellen pontot kell ítélni. Egyébként eltávolodhatnak, és folytathatják a vívást (a hosszúkardvívás egyezményes szabályai szerint) vagy birkózásba mehetnek át (a birkózás szabályai szerint). 
 
-## Judging of hits
+## A találatok megítélése
 
-1.  When during a phrase both fencers are hit within a period of fencing time there is either a
-    simultaneous action or a double hit:
-    1. The simultaneous action is due to simultaneous conception and execution of an attack by both
-       fencers; in this case both fencers are called a point against.
-    2. The double hit on the other hand, is the result of a clearly faulty action on the part of one
-       of the fencers, according to the rules. Therefore, when there is not an interval of fencing
-       time between the hits.
+1.  Mikor egy menet során a vívók egy tempón belül találják el egymást, az vagy egyidejű (együttes/szimultán) akció eredménye, vagy valamelyik vívó hibás akcióválasztásának eredménye.
+    1. Az egyidejű akció egy támadás mindkét vívó általi egyidejű elhatározásának és végrehajtásának következménye, ilyenkor mindkét vívó ellen pontot kell ítélni.
+    2. Az egyik versenyző a szabályokkal nyilvánvalóan ellenkező (például védési kötelezettség), hibás akciójának eredményeként létrejövő kettős találatok megítélésére az egyezményes elsőbbségi szabályokat kell alkalmazni.
 
-2.  When there is a double hit, and if the Referee is unable clearly to judge from which side the
-    fault has come, the referee must not assign any points.
+2.  Kettős találat esetén, ha a bíró nem tudja egyértelműen eldönteni ki volt a hibás fél, akkor nem ítélhet pontot.
 
-3.  In cases when a stop hit is made and there is doubt as to whether it was made sufficiently in
-    time in relation to the final movement of a compound attack, the double hit often occurs through
-    the fault of both fencers concerned. Since this is clearly not a tactically symmetrical case,
-    the referee should assign no points. (The fault of the attacker consists of indecision, slowness
-    of execution or the making of feints which are not sufficiently effective. The fault of the
-    defender lies in delay or slowness in making the stop hit.)
+3.  Közbetámadásnál, ha kételyek merülnek fel az időzítéssel kapcsolatban (az összetett támadás végső mozdulatához képest), a kettős találat lehet mindkét fél hibájának a következménye. Mivel ez nem egy taktikailag semleges/szimmetrikus helyzet (tehát nem egyidejű támadás eredménye), a bíró nem ítél pontot. (A támadó hibája lehet: határozatlanság, lassú végrehajtás, nem elég hatékony csel. A védekező hibája lehet: késlekedés vagy lassú végrehajtás)
 
-4.  Any actions executed while holding the weapon with one hand only, can only score if the fencer
-    does not receive any attack or counterattack with a weapon held with two hands, within one
-    period of fencing time.
+4.  Bármilyen egy kézben fogott fegyverrel véghezvitt találat elveszíti elsőbbségét egyidejű támadás vagy kettős(dupla) találat esetén, ha az ellenfél két kézzel fogott fegyverrel támadott vagy közbetámadott.
 
-5.  However if the opponent reacts to the attack with a weapon held in one hand with an attempt to
-    parry, an unsuccessful parry returns the right of initiative to the one-handed hit.
+5.  Abban az esetben azonban, ha az ellenfél hárítással reagál az egy kézzel fogott fegyverrel végrehajtott támadásra, sikertelen hárítás esetén az egykezes támadás akkor is megtartja elsőbbségét, ha az ellenfél riposztozik. 
 
-6.  In cases when both fencers get hit with a weapon held in one hand within time, the judgment of
-    the action follows the regular priority rules.
+6.  Ha mindkét vívó egy kézzel fogott a fegyverrel kap találatot tampón belül, a szokásos előnyszabályok érvényesülnek.
