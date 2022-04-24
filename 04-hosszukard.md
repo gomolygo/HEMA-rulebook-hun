@@ -10,7 +10,7 @@
 
 4.  A markolatgombbal végrehajtott találatok csak akkor számítanak érvényesnek, ha az ellenfél maszkjának borítás nélküli rostélyát találják el. Csak olyan találatokért adható pont, ami a maszkon sérülést nem okoz, illetve javasolt kesztyűs kézzel takarni a gombot. A szükségtelen erővel végrehajtott markolatgomb akciók a szabálytalanságok második csoportjában foglaltak szerint büntetendő.
 
-5.  A találati felület nem-érvényes részére érkező találatok nem számítanak találatnak, nem állítják meg a menetet, és nem érvényteleníti az azt követő találatot.
+5.  A találati felület nem-érvényes részére érkező találatok nem számítanak találatnak, nem állítják meg a menetet, és nem érvényteleníti az azt követő találatot. Kivéve, ha a bíró úgy ítéli meg, hogy a helyzet veszélyes lehet bármelyik félre, vagy ellehetetleníti a további akciók megítélését.
 
 6. Ha egy vívó nem érvényes találati felülettel helyettesíti bármely, a találati felületének érvényes részét, eltakarással vagy rendellenes mozdulattal, a bíró a fegyelmi vétségek első csoportjának megfelelő büntetést alkalmazza, és bármilyen találat, amit a vívó ilyen úton ért el, érvénytelenné válik.
 
@@ -24,25 +24,25 @@
 
 2.  Minden megfelelően kivitelezett támadást hárítani kell vagy teljesen el kell kerülni, és a vívás akciósora folyamatos kell legyen.
 
-3.  Az támadás kivitelezése akkor helyes, ha annak során a fegyver hegye vagy éle folyamatosan és progresszíven fenyegeti az ellenfél érvényes találati felületét, tehát a kar kinyújtásának megkezdése megelőzi a kitörés mozdulatát. 
+3.  Az támadás kivitelezése akkor helyes, ha annak során a fegyver hegye vagy éle folyamatosan és progresszíven fenyegeti az ellenfél érvényes találati felületét, tehát a kar kinyújtásának megkezdése megelőzi a támadó lábmunka indító mozdulatát. 
 
 4. A kitöréssel (vagy más támadó lábmunkával) végzett támadást helyesen hajtják végre:
     1. ha az egyszerű támadás során a kar nyújtása megelőzi a kitörés (vagy más támadó lábmunka) indítását, és a támadás legkésőbb a kitörés befejezéséig talál
-    2. ha Összetett támadásnál a kar nyújtása az első csel során megelőzi a kitörés (vagy más támadó lábmunka) indítását, és a támadás legkésőbb a kitörés befejezéséig talál.
+    2. ha összetett támadásnál a kar nyújtása az első csel során megelőzi a kitörés (vagy más támadó lábmunka) indítását, és a támadás legkésőbb a kitörés befejezéséig talál.
 
-5.  Lépés-kitöréssel és más összetett lábmunkával való támadást ez a szabályrendszer nem tárgyal. A találati elsőbbség meghatározásakor a támadás kitöréssel/Etc. végrehajtott végső mozzanatának kezdetét kell figyelembe venni. A lépések kivétel nélkül előkészítésnek minősülnek.
+5.  Lépés-kitöréssel és más összetett lábmunkával való támadást ez a szabályrendszer nem tárgyal. A találati elsőbbség meghatározásakor a támadás kitöréssel/stb. végrehajtott végső mozzanatának kezdetét kell figyelembe venni. A lépések kivétel nélkül előkészítésnek minősülnek.
 
 6.  A behajlított karral végrehajtott akciók, akár egyszerű, akár összetett, lépés vagy csel, nem jelentenek közvetlen fenyegetést, és nem minősülnek támadásnak, csak előkészítésnek, amelyek ki vannak téve az ellenfél által kezdeményezett támadásnak vagy közbetámadásnak. Az ilyen akciók közben elszenvedett támadásokból, közbetámadásokból származó találatok érvényesnek számítanak, és pontot érnek az előkészítésen ért vívó ellen.
 
 7. A támadás megfelelőségének megítéléséhez az alábbi tényezőket kell figyelembe venni:
     1. Ha a támadás akkor indul, amikor az ellenfél passzív vonalban áll (pl. Hosszúhegy/Langort), akkor a támadónak először el kell térítenie az ellenfél pengéjét. A bíróknak gondoskodniuk kell arról, hogy egy egyszerű érintkezés önmagában ne legyen elegendőnek a penge eltérítésének megállapításához.
     2. Ha az eltérítést célzó pengekeresés sikertelen, a támadás joga átkerül az ellenfélhez.
-    3. Ha a támadást olyankor kezdik meg, amikor az ellenfél pengéje nincs vonalban (pl. Hosszúhegy/Langort), a befejezés lehet direkt, kitérő, vagy kupé, vagy a befejezést megelőzhetik cselek, az ellenfél védését kiváltandó.
+    3. Ha a támadást olyankor kezdik meg, amikor az ellenfél pengéje nincs vonalban (pl. Hosszúhegy/Langort), a befejezés lehet direkt, kitérő, vagy kerülő, vagy a befejezést megelőzhetik cselek, az ellenfél védését kiváltandó.
     4. Összetett támadás esetén az ellenfél közbetámadhat, ami akkor érvényes, ha egy tempóval megelőzi a támadás utolsó mozdulatát, például a közbetámadásnak találnia kell, mielőtt a támadó megkezdené a támadás tényleges befejező mozzanatát.
 
 8.  A megfelelően végrehajtott védés jogot ad a visszatámadásra. Egy egyszerű visszatámadás lehet közvetlen vagy közvetett, de ahhoz hogy a támadás folytatásához való jogot átvegye, végrehajtását azonnal meg kell kezdeni, *habozás vagy szünet nélkül*. Ha a visszatámadás késik és a megújított támadás egyértelműen a riposzt előtt indul el, akkor a megújított támadás kapja a támadás jogát.
 
-9.  Szúrás, vágás, ütés ellen, akár a hosszú éllel, a rovid éllel, vagy lappal hajtják végre, a védés célja az, hogy megakadályozza az ellenfelet az érvényes találati felület elérésében, azaz
+9.  Szúrás, vágás, ütés ellen, akár a hosszú éllel, a rövid éllel, vagy lappal hajtják végre, a védés célja az, hogy megakadályozza az ellenfelet az érvényes találati felület elérésében, azaz
     1. megfelelő a védés, ha a támadás befejezése előtt lezárja a támadás vonalát, ezzel megelőzve a támadás célba érését
     2. ha a védés megfelelően lett végrehajtva, akkor a támadást kivédettnek kell tekinteni, még akkor is, ha a fegyver hajlékonysága miatt a penge vége érinti célpontot.
 
@@ -67,4 +67,4 @@
 
 5.  Abban az esetben azonban, ha az ellenfél hárítással reagál az egy kézzel fogott fegyverrel végrehajtott támadásra, sikertelen hárítás esetén az egykezes támadás akkor is megtartja elsőbbségét, ha az ellenfél riposztozik. 
 
-6.  Ha mindkét vívó egy kézzel fogott a fegyverrel kap találatot tampón belül, a szokásos előnyszabályok érvényesülnek.
+6.  Ha mindkét vívó egy kézzel fogott a fegyverrel kap találatot egy tempón belül, a szokásos előnyszabályok érvényesülnek.
