@@ -7,7 +7,7 @@
 
 2.  A versenyzők a bíró hívására a szabályos felszerelésben, vívásra készen jelennek meg a küzdőtérnél, minden egyes körmérkőzés vagy egyenes kieséses mérkőzés előtt.
 
-3.  A bíró minden forduló előtt ellenőrzi a vívók felszerelését, és meggyőződik a biztonsági felszerelések és a fegyverek megfelelő állapotáról. A bíró bármikor megismételheti felszerelés ellenőrzését, amikor szükségesnek ítéli. A nem megfelelő felszereléssel megjelenő versenyzők a szabálykönyv rendelkezései szerinti büntetéstben részesülnek, és nem kezdhetik meg vagy folytathatják a versenyzést, amíg a kérdéses felszerelésre a fegyverellenőrzésen jóváhagyást nem szereznek (lásd a felszerelés szabályokat), vagy le nem cserélik jóváhagyottra. 
+3.  A verseny megkezdése előtt az arra kijelölt személyzet ellenőrzi a vívók felszerelését, és meggyőződik a biztonsági felszerelések és a fegyverek megfelelő állapotáról. A fenti felszerelés ellenőrzést a bíró bármikor megismételheti, amikor szükségesnek ítéli. A nem megfelelő felszereléssel megjelenő versenyzők a szabálykönyv rendelkezései szerinti büntetéstben részesülnek, és nem kezdhetik meg vagy folytathatják a versenyzést, amíg a kérdéses felszerelésre a fegyverellenőrzésen jóváhagyást nem szereznek (lásd a felszerelés szabályokat), vagy le nem cserélik jóváhagyottra. 
 
 4.  Vívónként egy személy segítő/edző, tartózkodhat a pást mellett. Ez a személy beszélhet a vívóval szünetek alatt, de nem zavarhatja meg a mérkőzést szóbeli vagy fizikai jelzésekkel. A bírót a versenyző szólíthatja meg segítség- vagy magyarázat- vagy felülvizsgálati kéréssel, a segítő személyek a vívók szünetekbeni tanáccsal való ellátására kell szorítkozzanak.
 
@@ -51,7 +51,7 @@
 
 19.  Minden érvényes találat után, vagy ha az asszót más okból megállítják (zavart vívás, meghibásodás, sikertelen birkózási kísérlet, stb.), a mérkőzés a felállási vonalról folytatódik, vívóállásból.
 
-20.  Amennyiben a technikai feltételek adottak, úgy minden vívónak mérkőzésenként egyszer van lehetősége videó felülvizsgálatot kérni. Ha a videó felülvizsgálat az azt kérelmező vívó javára változtatja meg a bíró ítéletét, a kérelmező vívó továbbra is megtartja a videókérés lehetőségét.
+20.  Amennyiben a technikai feltételek adottak, úgy a csoport és az egyenes kieséses ágon is minden vívónak mérkőzésenként egyszer van lehetősége videó felülvizsgálatot kérni. A videó felülvizsgálat technikai feltételeit az egyenes kieséses ágon a szervezőknek biztosítani szükséges. Ha a videó felülvizsgálat az azt kérelmező vívó javára változtatja meg a bíró ítéletét, a kérelmező vívó továbbra is megtartja a videókérés lehetőségét.
 
 21.  Abban az esetben, ha az idő lejártakor mindkét vívónak ugyanannyi pontja van, a mérkőzés ideje további 1 perccel hosszabbodik, amelyben az első érvényes találat nyeri a mérkőzést (kivéve az együttes találatokat). A hosszabbítás megkezdése előtt a bíró pénzfeldobással megállapítja annak a vívónak a személyét, aki megnyeri a mérkőzést, ha senki nem szerzett döntő találatot a hosszabbításban.
 
@@ -85,7 +85,7 @@
     3. Az után-akció (találat utáni akció) olyan dupla találat jellegű helyzet, ahol a hibázó vívó a találat kapás pillanatában, vagy azután kezd meg egy közbetámadást, vagy az összetett támadás befejező mozzanatát. Az után-akciókért nem jár pont, és nem teszik semmissé a kapott találatot. 
 
 4.  Találatokat a következő módokon lehet kivitelezni:
-    1. Ütés - A fegyver élével vagy lapjával végrehajtott támadás, ami sérülést okozna az adott területen (például a lappal fejet ért ütés is érvényes).
+    1. Ütés - A fegyver élével vagy lapjával végrehajtott támadás, ami sérülést okozna az adott területen (a megfelelő technikai kivitelezéssel végrehajott lappal bevitt találatok is érvényesek).
     2. Szúrás - A fegyver hegyével végrehajtott támadás. A szúrás akkor érvényes, ha egyértelműen megállapítható, pl a találat megülése során a penge hajlásából.
     3. Vágás - A fegyver élével, érvényes találati felületen végrehajtott, egyértelműen felismerhető toló vagy húzó mozdulat.
     4. Ütés markolatgombbal - A fegyver markolatgombjával mért ütés, kizárólag a maszk rostély részére.
@@ -96,7 +96,7 @@
 A közelharc és a birkózás az alábbi szabályokkal folytatható:
 1.  Birkózás egy mérkőzésen belül csak abban az esetben engedhető meg, ha abba mindkét fél beleegyezett a mérkőzés megkezdése előtt. Amennyiben az egyik fél nem vállalja a birkózást, annak okára nem kell magyarázatot adnia.
 
-2.  Birkózó akciónak számít minden közelharci akció, amit nem fegyverrel hajtanak végre (kézzel/lábbal/stb. végzett technikák, fogások, lefegyverzések), illetve amik fegyverrel a közvetlen találatadás helyett az ellenfél testrészeinek manipulálását szolgálják.
+2.  Birkózó akciónak számít minden közelharci akció, amit nem fegyverrel hajtanak végre (kézzel/lábbal/fejjel/stb. végzett technikák, fogások, lefegyverzések, ütések), illetve amik fegyverrel a közvetlen találatadás helyett az ellenfél testrészeinek manipulálását szolgálják.
 Amennyiben valamelyik ellenfél nem egyezett bele birkózásba a mérkőzésen, úgy bármilyen birkózó akció kezdeményezője a fegyelmi vétségek első csoportjába tartozó szabálytalanságot követ el.
 
 3.  A bíró megállíthatja a mérkőzést huzamosabb idejű sikertelen közelharc vagy birkózás után (ezt a bíró saját hatáskörében ítéli meg).
