@@ -132,6 +132,6 @@ Kidolgozás alatt.
 
 [^2]: Mivel a jelenlegi versenyen előfordulhatnak olyan kezdő vívók, akik a felszerelés követelmény kihirdetése és verseny időpontja közötti rövid időszakban nem tudnak beszerezni megfelelő védőfelszerelést, ezért kivételes esetekben, kezdőknek hirdetett versenyszámokban eltekintünk a fenti intézkedéstől és CE1 valamint 350N ellenállású maszkban is engedélyezhetjük a pástra lépést. Ezekben az esetekben külön szabályokat alkalmazunk a sérülések elkerülése végett (pl. az arcra szúrás, és szükségtelenül erős ütések a fegyelmi vétségek második csoportjába tartoznak). A fenti esetekben a helyszínen a verseny szervező bizottsága fog döntést hozni.
 
-[^3]: A fenti, ponthoz hasonlóan a kesztyűk esetében a Red Dragon márkájú, ötujjas kesztyűket az Elit versenyszámban nem engedélyezünk, de a kezdő kategóriában a fentiekhez hasonló megkötésekkel van lehetőség a használatukra.
+[^3]: A Red Dragon márkájú, ötujjas kesztyűk használatát csak a kezdő kategóriában engedélyezzük olyan kivételes esetekben, amikor egy kezdő vívó a felszerelés követelmény kihirdetése és verseny időpontja közötti rövid időszakban nem tudja beszerezni megfelelő védőfelszerelést. Ezekben az esetekben külön szabályokat alkalmazunk a sérülések elkerülése végett (pl. a szükségtelenül erős ütések a fegyelmi vétségek második csoportjába tartoznak). A fenti esetekben a helyszínen a verseny szervező bizottsága fog döntést hozni..
 
 [^4]: Ideiglenes, még revízió alatt álló szabályozás, csak kirívó esetekben alkalmazandó, ahol a penge rugalmassága extrémen alacsony vagy magas.
