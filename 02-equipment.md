@@ -15,7 +15,7 @@ legalább 2 méterre legyenek a pást középpontjától, ezzel legalább 4 mét
 
 1. Minden vívó a saját felszereléséért felelős, és a kötelező elemek minden darabját köteles használni, amikor részt vesz a tornán. Ha a felszerelése egyik elemét a torna kezdetekor vagy a közben versenyzésre alkalmatlannak nyilvánítják, és azt a versenyző nem tudja azt megfelelő elemmel pótolni, akkor nem folytathatja, vagy kezdheti el a versenyzést.
 
-2. A kötelező felszerelést a tornán erre kijelölt személyzet ellenőrzi a torna megkezdése előtt. Továbbá minden egyes pást vezető bírója egy további ellenőrzést hajt végre a mérkőzések megkezdése előtt[^1]. A bíró kötelezheti bármelyik versenyzőt, hogy állítson a felszerelése valamely részein vagy cserélje le azt, erre legfeljebb 5 percnyi időt hagyhat. Ha a vívó nem tud eleget tenni a fenti időkereten belül az utasításnak, akkor fekete lapot kap és ezzel kizárásra kerül a tornáról.
+2. A kötelező felszerelést a tornán erre kijelölt személyzet ellenőrzi a torna megkezdése előtt. Továbbá minden egyes pást vezető bírója egy további ellenőrzést hajt végre a mérkőzések megkezdése előtt.[^1] A bíró kötelezheti bármelyik versenyzőt, hogy állítson a felszerelése valamely részein vagy cserélje le azt, erre legfeljebb 5 percnyi időt hagyhat. Ha a vívó nem tud eleget tenni a fenti időkereten belül az utasításnak, akkor fekete lapot kap és ezzel kizárásra kerül a tornáról.
 
 3. Ha olyan nem megfelelő felszerelés miatt sérülés következik be a tornán, amit a felszerelés ellenőrző személyzet vagy a bíró jóvá hagyott, akkor azon, hanyagságot elkövető felszerelés ellenőrző személyzet vagy a bíró tekinthető felelősnek, aki jóváhagyta a vívó pástra lépését. A felelős személyt vagy személyeket fegyelmi eljárás alá vonjuk, és a licenszük bevonásra kerülhet.
 
@@ -130,7 +130,7 @@ Kidolgozás alatt.
  
 [^1]: Mivel kis méretű szervező gárdával rendelkezünk, ezért elképzelhető, hogy a jelenlegi versenyen csak a bírók ellenőrzik a felszereléseket a mérkőzések megkezdése előtt.
 
-[^2] Mivel a jelenlegi versenyen előfordulhatnak olyan kezdő vívók, akik a felszerelés követelmény kihirdetése és verseny időpontja közötti rövid időszakban nem tudnak beszerezni megfelelő védőfelszerelést, ezért kivételes esetekben, kezdőknek hirdetett versenyszámokban eltekintünk a fenti intézkedéstől és CE1 valamint 350N ellenállású maszkban is engedélyezhetjük a pástra lépést. Ezekben az esetekben külön szabályokat alkalmazunk a sérülések elkerülése végett (pl. az arcra szúrás, és szükségtelenül erős ütések a fegyelmi vétségek második csoportjába tartoznak). A fenti esetekben a helyszínen a verseny szervező bizottsága fog döntést hozni.
+[^2]: Mivel a jelenlegi versenyen előfordulhatnak olyan kezdő vívók, akik a felszerelés követelmény kihirdetése és verseny időpontja közötti rövid időszakban nem tudnak beszerezni megfelelő védőfelszerelést, ezért kivételes esetekben, kezdőknek hirdetett versenyszámokban eltekintünk a fenti intézkedéstől és CE1 valamint 350N ellenállású maszkban is engedélyezhetjük a pástra lépést. Ezekben az esetekben külön szabályokat alkalmazunk a sérülések elkerülése végett (pl. az arcra szúrás, és szükségtelenül erős ütések a fegyelmi vétségek második csoportjába tartoznak). A fenti esetekben a helyszínen a verseny szervező bizottsága fog döntést hozni.
 
 [^3]: A fenti, ponthoz hasonlóan a kesztyűk esetében a Red Dragon márkájú, ötujjas kesztyűket az Elit versenyszámban nem engedélyezünk, de a kezdő kategóriában a fentiekhez hasonló megkötésekkel van lehetőség a használatukra.
 
