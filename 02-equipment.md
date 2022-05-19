@@ -134,4 +134,4 @@ Kidolgozás alatt.
 
 [^3]: A fenti, ponthoz hasonlóan a kesztyűk esetében a Red Dragon márkájú, ötujjas kesztyűket az Elit versenyszámban nem engedélyezünk, de a kezdő kategóriában a fentiekhez hasonló megkötésekkel van lehetőség a használatukra.
 
-[^4]: Ideiglenes, még revízió alatt álló szabályozás, csak kirívó esetekben kerül alkalmazásra, ahol a penge rugalmassága extrémen alacsony vagy magas.
+[^4]: Ideiglenes, még revízió alatt álló szabályozás, csak kirívó esetekben alkalmazandó, ahol a penge rugalmassága extrémen alacsony vagy magas.
