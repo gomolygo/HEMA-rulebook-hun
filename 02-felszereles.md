@@ -25,7 +25,7 @@ legalább 2 méterre legyenek a pást középpontjától, ezzel legalább 4 mét
 
 ### Fejvéd
 
-1. Sérülésmentes, FIE által jóváhagyott fejvéd (CE level 2, 1600N ellenállással), kötelező.[^2]
+1. Sérülésmentes, FIE által jóváhagyott fejvéd (CE level 2, 1600N ellenállással), kötelező.
 
 2. A fej hátulját és a nyaki csigolyákat védő, HEMA specifikus, a fejvéddel együtt működő tarkóvédő, kötelező.
 
@@ -38,7 +38,7 @@ legalább 2 méterre legyenek a pást középpontjától, ezzel legalább 4 mét
 ### Kéz-, kar- és testvédelem
 
 1. Kizárólag olyan kesztyűk használata megengedett, amiket speciálisan HEMA versenyekhez fejlesztettek ki (pl. Sparring Gloves), vagy minden speciális követelményt kielégítenek. Tilos olyan kesztyűk használata, amelyek bármilyen fém alkatrészt tartalmaznak (kivéve a megerősítő szerelvényként, mint a
-Sparring Gloves kesztyűkön a gumiszalag átvezetésénél használt ringlik).[^3]
+Sparring Gloves kesztyűkön a gumiszalag átvezetésénél használt ringlik).
 
 2. A versenyen használt kesztyűk esetében a tenyeret nem kell, hogy megerősített réteg borítsa, de a teljes tenyér fedett kell legyen, erre elégséges
 egy egyszerű textil kesztyű is.
@@ -82,7 +82,7 @@ Minden vívó a saját fegyveréért felelős. Azt a versenyen megfelelő állap
 
 5. A markolatgomb sima felületű kell legyen, és nem lehetnek rajta hegyes szegecsek, tüskék.
 
-6. A penge rugalmasságát egy mérlegen végrehajtott kihajlás próbával ellenőrizzük. A penge rugalmasságának értékét a mérlegre állított és központosan nyomott penge által, a mérlegen maximálisan kijelzett kilogramm érték mutatja. A hosszúkard rugalmassága 9-18kg között kell mozogjon.[^4]
+6. A penge rugalmasságát egy mérlegen végrehajtott kihajlás próbával ellenőrizzük. A penge rugalmasságának értékét a mérlegre állított és központosan nyomott penge által, a mérlegen maximálisan kijelzett kilogramm érték mutatja. A hosszúkard rugalmassága 9-18kg között kell mozogjon.[^2]
 
 7. A hegy minimum 1 cm széles kell legyen.
 
@@ -130,8 +130,4 @@ Kidolgozás alatt.
  
 [^1]: Mivel kis méretű szervező gárdával rendelkezünk, ezért elképzelhető, hogy a jelenlegi versenyen csak a bírók ellenőrzik a felszereléseket a mérkőzések megkezdése előtt.
 
-[^2]: Mivel a jelenlegi versenyen előfordulhatnak olyan kezdő vívók, akik a felszerelés követelmény kihirdetése és verseny időpontja közötti rövid időszakban nem tudnak beszerezni megfelelő védőfelszerelést, ezért kivételes esetekben, kezdőknek hirdetett versenyszámokban eltekintünk a fenti intézkedéstől és CE1 valamint 350N ellenállású maszkban is engedélyezhetjük a pástra lépést. Ezekben az esetekben külön szabályokat alkalmazunk a sérülések elkerülése végett (pl. az arcra szúrás, és szükségtelenül erős ütések a fegyelmi vétségek második csoportjába tartoznak). A fenti esetekben a helyszínen a verseny szervező bizottsága fog döntést hozni.
-
-[^3]: A Red Dragon márkájú, ötujjas kesztyűk használatát csak a kezdő kategóriában engedélyezzük olyan kivételes esetekben, amikor egy kezdő vívó a felszerelés követelmény kihirdetése és verseny időpontja közötti rövid időszakban nem tudja beszerezni megfelelő védőfelszerelést. Ezekben az esetekben külön szabályokat alkalmazunk a sérülések elkerülése végett (pl. a szükségtelenül erős ütések a fegyelmi vétségek második csoportjába tartoznak). A fenti esetekben a helyszínen a verseny szervező bizottsága fog döntést hozni..
-
-[^4]: Ideiglenes, még revízió alatt álló szabályozás, csak kirívó esetekben alkalmazandó, ahol a penge rugalmassága extrémen alacsony vagy magas.
+[^2]: Ideiglenes, még revízió alatt álló szabályozás, csak kirívó esetekben alkalmazandó, ahol a penge rugalmassága extrémen alacsony vagy magas.
