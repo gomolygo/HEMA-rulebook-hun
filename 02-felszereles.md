@@ -66,11 +66,11 @@ nadrágnak, vagy más jóváhagyott szúrás álló anyagnak kell borítania.
 5. A kabát és a nadrág között nem maradhat megfelelő védelemmel ellátatlan
 testfelület. Javasolt a derékig érő vívónadrágok használata.
 
-### Fegyverek
+## Fegyverek
 
 Minden vívó a saját fegyveréért felelős. Azt a versenyen megfelelő állapotban, sorja és rozsdamentesen, a hegyéről minden korábbi bandázst eltávolítva kell prezentálnia. A fegyvereket a tornán erre kijelölt személyzet ellenőrzi az alábbiakban meghatározott feltételeknek megfelelően, megfelelőség esetén annak hegyét a torna erre kijelölt személyzet bebandázsolja. Az egyes pástok vezető bírói bármikor újra ellenőrizhetik a fegyvereket, azokat nagyobb sérülések esetén kitilthatják a versenyről. A vívó fegyverének kitiltása után a bíró legfeljebb 5 percnyi időt hagyhat annak cseréjére. Ha a vívó nem tud eleget tenni a fenti időkereten belül az utasításnak, akkor fekete lapot kap és ezzel kizárásra kerül a tornáról.
 
-#### Hosszúkard
+### Hosszúkard
 
 1. Csakis egyenes pengéjű, európai típusú vívó/gyakorló kardok használata engedélyezett a tornán. A hosszúkardnak két élű pengéje, keresztvasa és markolatgombja kell legyen. A hosszúkardnak megfelelő minőségű acélból kell készülnie (fa, alumínium, műanyag kardok használata tilos), és az alábbi feltételeknek eleget kell tennie:
 
@@ -98,13 +98,13 @@ Minden vívó a saját fegyveréért felelős. Azt a versenyen megfelelő állap
 
 13. A kard teljes tömege női versenyszámban 1100-1600g között kell mozogjon. 
 
-#### Rapír
+### Rapír
 Kidolgozás alatt.
 
-#### Kard és buckler
+### Kard és buckler
 Kidolgozás alatt.
 
-### Védőfelszerelés (párnázott fegyverek esetén)
+## Védőfelszerelés (párnázott fegyverek esetén)
 
 1. Sérülésmentes fejvéd (minimum CE level 1, 350N ellenállással), kötelező.
 
@@ -116,7 +116,7 @@ Kidolgozás alatt.
 
 5. Legalább hoki, lacrosse vagy Red Dragon típusú, vagy ahhoz hasonló védelemmel ellátott párnázott kesztyű viselése kötelező.
 
-### Párnázott fegyverek
+## Párnázott fegyverek
 
 1. Sérülésmentes.
 
