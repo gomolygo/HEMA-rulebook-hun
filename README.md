@@ -2,7 +2,7 @@
 
 ## Introduction
 
-- [Introduction](01-intro.md)
+- [Bevezetés](01-bevezetes.md)
 
 ## Equipment Regulations
 
