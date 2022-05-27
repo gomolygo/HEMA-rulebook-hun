@@ -1,27 +1,29 @@
-# FEBUS Tournament Rulebook
+# Kard Rendje Versenyszabályzat - V2
 
-## Introduction
+## Bevezetés
 
 - [Bevezetés](01-bevezetes.md)
 
-## Equipment Regulations
+## Eszköz és felszerelés követelmények
 
-- [Equipment Standards](02-equipment.md)
+- [Felszereles](02-felszereles.md)
 
-## Organisation and bout management
+## Szervezés és meccsvezetés
 
-- [Organisation](06-organisational.md)
-- [Fencing etiquette and disciplinary rules](07-disciplinary.md)
+- [A szervezés szabályai](06-szervezes.md)
+- [Vívó etikett és fegyelmi szabályzat](07-etikett_fegyelem.md)
 
-## The Principles of Scoring
+## A vívásra vonatkozó szabályok
 
-- [General rules for all weapons](03-general.md)
-- [Longsword specific rules](04-longsword.md)
-- [One-handed weapon specific rules (rapier and dagger, side-sword)](05-rapier.md)
+- [Általánosan érvényes szabályok](03-altalanos.md)
+- [Hosszúkardvívás egyezményes szabályai](04-hosszukard.md)
+- [Párnázott fegyverek szabályai](05-parnazott_fegyver.md)
 
-## Appendix
+## Függelék
 
-- [Glossary](appendices/01-glossary.md)
-- [Tables of offence and penalties](appendices/03-penalties.md)
-- [Vor/Priority examples](appendices/02-priority.md)
+- [Szojegyzék](fuggelek/01-szojegyzek.md)
+- [Az egyezményes elsőbbségi szabályok magyarázata](fuggelek/02-elsobbseg.md)
+- [Szabálytalanságok és büntetések táblázatai](fuggelek/Buntetesek_tablazata.pdf)
+- [Bírói jelzések 1.](fuggelek/referee_signals_1.png)
+- [Bírói jelzések 2.](fuggelek/referee_signals_2.png)
 
