@@ -87,6 +87,45 @@
 
 1.  Az egyenes kieséses tábla minden fordulójában (256, 128, 64, 32, 16, 8, 4) a mérkőzéseket mindig a táblázat szerint fentről lefelé haladva hirdetik ki.
 
+## Csapatversenyek
+
+1. A csapatok minden fegyvernem esetén három vívóból állnak, egy tartalékkal, vagy anélkül. Egy csapat csak akkor kezdhet el egy mérkőzést, ha minden tagja jelen van. 
+
+2. 
+    1. A csapatversenyt egyenes kieséses táblával kell lebonyolítani, amelyben lehetnek erőnyerők. 
+    2. Az egyenes kiesés táblán az első négy helyet a csapattagok aktuális, adott fegyvernemre vonatkozó egyéni HEMARatings eredményéből számított kumulált relatív (a rangsor hosszához képest) pozíciójának megfelelően foglalják el a csapatok. Ha egy vívónak mind a 'Mixed/Men' és a 'Women' kategóriában is van eredménye, a magasabb relatív helyezés számít. A ranglistában nem szereplő csapattagokat automatikusan és egységesen 1-es indexszel kell számítani. Ha két csapat így számított indexe egyforma, sorrendjüket sorsolással kell meghatározni. A többi ranglistás taggal rendeljező csapat táblán elfoglalt helyét sorsolással kell meghatározni. Azok a csapatok, akiknek egyik tagja sem szerepel a HEMARatings ranglistán, a tábla utolsó helyeit foglalják el, sorsolással meghatározott sorrendben.
+    3. A táblán az első 16 helyezésért vívni kell. A 17. helytől lefelé a csapatok helyezése a táblán elfoglalt eredeti helyük alapján kell megállapítani.
+
+3. A versenyt a következőképp kell lebonyolítani:
+    1. A váltások módja minden fegyvernemre érvényes. 
+    2. Az egyik csapat három vívója vív a másik csapat három vívójával (9 váltó viadal). 
+    3. Az egyes mérkőzések összecsapásait a következő sorrendben kell megvívni: 
+    
+       3–6 2–5 1–5 1–4 2–4 2–6 1–6 3–5 3–4 
+
+    Ha ezt a sorrendet szándékosan vagy véletlenül megváltoztatják, a módosítást követően elért összes találatot érvénytelenítik, és a mérkőzés a megfelelő sorrendben folytatódik. 
+
+    4. Az egyes csapatok elhelyezkedése a mérkőzés pontozólapján sorsolás útján kerül meghatározásra. Az egyéni vívók sorrendjét ezután a csapatkapitányok döntik el.
+
+    5. 
+        1. A mérkőzés során a csapatkapitány kérheti egy vívó helyettesítését a csapatmérkőzés kezdete előtt megnevezett tartalékkal. Ez a csere csak egy viadal végén hajtható végre. A lecserélt vívó azonban még egyszer vívhat a mérkőzés alatt, de csak azért, hogy helyettesítse az eredetileg őt helyettesítő vívót. Ez a második csere nem engedélyezett, ha az első csere az alábbi 3.6. cikkben felsorolt okok miatt történt. További, a páston lévő vívó cseréje ezután nem megengedett, még baleset vagy elkerülhetetlen körülmények esetén sem. A vívó lecserélésére vonatkozó bejelentést legkésőbb a lecserélendő vívó következő mérkőzését megelőző mérkőzés kezdete előtt meg kell tenni, és a játékvezetőnek jelentenie kell azt az ellenfél csapatkapitányának.
+        2. Ha a cserekérést követő mérkőzésen baleset történik, a csapatkapitány érvénytelenítheti a kérést. 
+        3. Ha következésképpen az ellenfél csapatkapitánya is cserét kért, az előbb kért csere végrehajtható vagy törölhető.
+
+    6. 
+        1. Ha egy csapat tagja a mérkőzés alatt a Szervezőcsapat orvosi képviselője által megfelelően elismert baleset miatt köteles visszavonulni, csapatának kapitánya kérheti tartalék felvételét a mérkőzés folytatásához azon a ponton, ahol a visszalépésre kötelezett versenyző visszalépett, még a folyamatban lévő viadal alatt is.
+        2. Az így lecserélt versenyző azonban ugyanazon a mérkőzésen nem foglalhatja el ismét a helyét a csapatban. 
+
+    7. 
+        1. Ha mind a vívó, mind a tartalék (ha van ilyen) kénytelen visszalépni, és ezért a csapat nem teljes, akkor elveszti a mérkőzést, és vissza kell lépnie a versenytől. A csapat megőrzi helyét a végső rangsorban. 
+        2. Ha egy vívót csapatmérkőzés közben kizárnak, akkor csapata elvesztette a mérkőzést, és a csapatot végső helyezés nélkül kizárják a versenyből. Vö. '07-etikett_fegyelem'/'Büntetések'/'A büntetések típusai (csoportjai)'/3
+
+    8. Ha egy csapat bármilyen okból nem fejezi be azt az eseményt, amelyen részt vesz, a Szervezőcsapat azokra a versenyzőkre vonatkozó szabályokat alkalmazza, akik nem teljesítenek egy eseményt egyéni versenyen, minden csapatot teljes egészében úgy kezelve, mintha egyetlen versenyző lenne. Vö. 'Függelék'/'Büntetések táblázata'
+
+    9. Ha egy csapat nem jelenik meg egy másik csapat ellen, akkor a következőként kell eljárni:
+        1. Ha már vívott egy másik csapat ellen, úgy kell kezelni, mintha nem fejezte volna be a versenyt, amelyen részt vesz (vö. '06-szervezés'/'Egyenes kieséses mérkőzések'/7;
+        2. ha az első mérkőzésén nem jelenik meg, úgy kell kezelni, mintha egyáltalán nem venne részt a versenyen. 
+
 ## Értékelés
 
 1.  Az általános rangsort a következők szerint kell felállítani:
