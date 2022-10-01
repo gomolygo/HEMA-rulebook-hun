@@ -114,7 +114,8 @@
 
     6. 
         1. Ha egy csapat tagja a mérkőzés alatt a Szervezőcsapat orvosi képviselője által megfelelően elismert baleset miatt köteles visszavonulni, csapatának kapitánya kérheti tartalék felvételét a mérkőzés folytatásához azon a ponton, ahol a visszalépésre kötelezett versenyző visszalépett, még a folyamatban lévő viadal alatt is.
-        2. Az így lecserélt versenyző azonban ugyanazon a mérkőzésen nem foglalhatja el ismét a helyét a csapatban. 
+        2. Ugyanígy kell eljárni akkor is, ha a csapat egyik tagját felszerelés meghibásodása miatt kell kizárni a mérkőzésből. Vö. 03-általános/A mérkőzések menete/24
+        3. Az így lecserélt versenyző azonban ugyanazon a mérkőzésen nem foglalhatja el ismét a helyét a csapatban. 
 
     7. 
         1. Ha mind a vívó, mind a tartalék (ha van ilyen) kénytelen visszalépni, és ezért a csapat nem teljes, akkor elveszti a mérkőzést, és vissza kell lépnie a versenytől. A csapat megőrzi helyét a végső rangsorban. 
