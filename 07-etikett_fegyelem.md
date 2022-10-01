@@ -3,7 +3,7 @@
 ## Rend és Fegyelem
 
 1.  Minden résztvevő és jelenlévő, beleértve a nézőket is, szigorúan be kell tartsa az adott verseny szabályait, az udvariasság és becsületesség hagyományait, a tisztviselők utasításait. Különösképpen, rendezett, fegyelmezett, és sportszerű módon alávetik magukat az alábbi rendelkezéseknek; melyek bárminemű megszegése a fegyelmi hatóság által kiszabott büntetést vonhat maga után, előzetes figyelmeztetéssel, vagy anélkül, figyelembe véve a tényeket és körülményeket.
-2.  
+
 3.  Minden, a versenyen résztvevő és jelenlévő köteles fegyelmezett magatartást tanúsítani, és nem megzavarni a verseny gördülékeny lebonyolítását. A mérkőzések közben senki nem közelítheti meg a küzdőteret, hogy tanácsokat adjon a vívóknak, kritizálja a bírót vagy a segédjét, hogy sértegesse, vagy befolyásolni próbálja őket bármilyen módon. A vívó segédje köteles a számára kijelölt helyen maradni. A bíró köteles haladéktalanul leállítani minden tevékenységet, amely megzavarja az általa vezetett mérkőzést.
 
 3.  Bármely személy, aki bármilyen indokkal sérteget vagy fenyeget egy tisztviselőt, azonnal diszkvalifikálható / kiutasítható a helyiségből.
