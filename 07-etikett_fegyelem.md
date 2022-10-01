@@ -102,6 +102,8 @@
 
 2.  A büntetések halmozhatók és a mérkőzésre érvényesek, kivéve a FEKETE LAPPAL jelölteket, amely a versenyszámból való kizárást, a verseny hátralévő részére való felfüggesztést, vagy a szövetség vagy az adott Szervezőcsapat által szervezett jövőbeni eseményekről való eltiltást jelentik.
 
+4.  Viszont a csapat, amely egy tagjára csapatmérkőzés során kiszabott fekete lap következményeképp került kizárásra, nem büntetendő eltiltással. Csak az egyéni vívó, akit fekete lappal büntettek, tiltható el a fenti A büntetések típusai (csoportjai)/2. pont alapján, és az eltiltás alatt nem választható semmilyen csapat tagjának. Vö. Szervezés/Csapatversenyek/3/8
+
 3.  Bizonyos szabálysértések a vétkes vívó által elért találat érvénytelenítését vonhatják maguk után. A viadal során csak a szabálysértéshez kapcsolódó körülmények között szerzett találatok érvényteleníthetők.
 
 4.  A büntetések a következők:
