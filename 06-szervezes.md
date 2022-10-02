@@ -30,7 +30,7 @@
 
 ## A versenyek szervezése és minősítése
 
-### Csoportmérkőzések
+### Egyéni csoportmérkőzések
 
 1.  Minden versenyszámban, amelynek részét képezi csoportmérkőzés, a csoportok 7 versenyzőből állnak, amennyiben a versenyzők száma osztható 7-tel. Egyébként 7 és 6 fős csoportokat kell hirdetni.
 
@@ -66,7 +66,7 @@
 
 11. Ha egy versenyző egyetlen mérkőzést ad csak fel, vesztesnek kell nyilvánítani abban a mérkőzésben, de az addig rögzített pontokat nem törlik.
 
-## Egyenes kieséses mérkőzések
+## Egyéni egyenes kieséses mérkőzések
 
 1.  A – teljes vagy nem teljes – egyenes kieséses táblát a rangsor és az adott versenyszám vonatkozó szabályai szerint (lásd 2.-es ábra) kell létrehozni.
 
@@ -126,6 +126,8 @@
     9. Ha egy csapat nem jelenik meg egy másik csapat ellen, akkor a következőként kell eljárni:
         1. Ha már vívott egy másik csapat ellen, úgy kell kezelni, mintha nem fejezte volna be a versenyt, amelyen részt vesz (vö. '06-szervezés'/'Egyenes kieséses mérkőzések'/7;
         2. ha az első mérkőzésén nem jelenik meg, úgy kell kezelni, mintha egyáltalán nem venne részt a versenyen. 
+
+4. A csapatversenyek idő és pontszám kereteire vonatkozó szabályokat lásd: '03-általános'/'Csapatmérkőzések'
 
 ## Értékelés
 
