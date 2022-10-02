@@ -89,8 +89,12 @@
 
 2. 
     1. A csapatversenyt egyenes kieséses táblával kell lebonyolítani, amelyben lehetnek erőnyerők. 
-    2. Az egyenes kiesés táblán az első négy helyet a csapattagok aktuális, adott fegyvernemre vonatkozó egyéni HEMARatings eredményéből számított kumulált relatív (a rangsor hosszához képest) pozíciójának megfelelően foglalják el a csapatok. Ha egy vívónak mind a 'Mixed/Men' és a 'Women' kategóriában is van eredménye, a magasabb relatív helyezés számít. A ranglistában nem szereplő csapattagokat automatikusan és egységesen 1-es indexszel kell számítani. Ha két csapat így számított indexe egyforma, sorrendjüket sorsolással kell meghatározni. A többi ranglistás taggal rendeljező csapat táblán elfoglalt helyét sorsolással kell meghatározni. Azok a csapatok, akiknek egyik tagja sem szerepel a HEMARatings ranglistán, a tábla utolsó helyeit foglalják el, sorsolással meghatározott sorrendben.
-    3. A táblán az első 16 helyezésért vívni kell. A 17. helytől lefelé a csapatok helyezése a táblán elfoglalt eredeti helyük alapján kell megállapítani.
+    2. Az egyenes kiesés táblán a ragnsort a következőképp kell megállapítani: 
+        1. A csapat tagjainak HEMARatingsen szereplő, aktuális weightedRating-jeiből számolt átlagot kell figyelembe venni (a relativeRating-ek összegét elosztva a csapattagok számával).
+        2. Ha egy vívónak mind a 'Mixed/Men' és a 'Women' kategóriában is van eredménye, a magasabb weightedRating számít. 
+        3. A HEMARatinggel nem rendelkező csapattagokat egységesen a fegyvernemnek megfelelő kategória legrosszabb weightedRatingjét felezve számított értékkel kell figyelembe venni (vegyes csapatoknál a 'Mixed/Men'-t, nemtől függetlenül).
+        4. Ha két csapat így számított indexe egyforma, sorrendjüket sorsolással kell meghatározni.
+    4. A táblán az első 16 helyen minden helyezésért vívni kell. A 17. helytől lefelé a csapatok helyezését a táblán elfoglalt eredeti helyük alapján kell megállapítani.
 
 3. A versenyt a következőképp kell lebonyolítani:
     1. A váltások módja minden fegyvernemre érvényes. 
