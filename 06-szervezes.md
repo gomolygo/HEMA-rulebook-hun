@@ -83,10 +83,6 @@
 
 7.  Visszalépés: Ha, bármilyen okból kifolyólag, az egyik versenyző nem képes folytatni a küzdelmet, vagy befejezni a mérkőzést, az ellenfelet nyilvánítják győztesnek. A visszalépő vívó nem veszti el helyezését az összesített rangsorban.
 
-## A mérkőzések sorrendje
-
-1.  Az egyenes kieséses tábla minden fordulójában (256, 128, 64, 32, 16, 8, 4) a mérkőzéseket mindig a táblázat szerint fentről lefelé haladva hirdetik ki.
-
 ## Csapatversenyek
 
 1. A csapatok minden fegyvernem esetén három vívóból állnak, egy tartalékkal, vagy anélkül. Egy csapat csak akkor kezdhet el egy mérkőzést, ha minden tagja jelen van. 
@@ -128,6 +124,10 @@
         2. ha az első mérkőzésén nem jelenik meg, úgy kell kezelni, mintha egyáltalán nem venne részt a versenyen. 
 
 4. A csapatversenyek idő és pontszám kereteire vonatkozó szabályokat lásd: '03-általános'/'Csapatmérkőzések'
+
+## A mérkőzések sorrendje
+
+1.  Az egyenes kieséses tábla minden fordulójában (256, 128, 64, 32, 16, 8, 4) a mérkőzéseket mindig a táblázat szerint fentről lefelé haladva hirdetik ki.
 
 ## Értékelés
 
