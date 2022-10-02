@@ -15,11 +15,11 @@
 
 6.  A mérkőzés megkezdése előtt a bíró felkéri az ellenfeleket, hogy egyezzenek meg a mérkőzésük során a test test elleni küzdelem során birkózó fogások használatáról.
 
-7.  Az egyéni csoport mérkőzések ténylegesen vívással töltött 3 percig, vagy addig tartanak, amíg az egyik vívó el nem ér 5 pontot. Az egyéni egyenes kieséses mérkőzések ténylegesen vívással töltött 2 * 3 percig tartanak az első 3 perc után 1 perc pihenőidővel, vagy ameddig az egyik vívó el nem éri a 7 pontot. Az idő leteltét az Időmérő (személyzet) jelzi a bíró számára, de csak a bíró állíthatja meg a mérkőzést. A csapat mérkőzések menetét lásd a '03-általános'/'A csapatmérkőzések menete' bekezdésben.
+7.  Az idő leteltét az Időmérő (személyzet) jelzi a bíró számára, de csak a bíró állíthatja meg a mérkőzést.
 
-8.  A mérkőzések előtt a pástra hívott vívók üdvözlik a bírót és az ellenfelet. Az asszók megkezdése előtt a vívók a bíró ‘Állás!’ (‘On guard!’ / ‘En Garde!’) parancsára vívóállásba helyezkednek, és mozdulatlanul várják a mérkőzés indítását. A bíró ‘Kész/Ready/Pret’ kérdésére megerősítő válasz után, vagy negatív válasz hiányában a bíró elindítja az asszót a ’Rajt!’/ ‘Fence!’ / ‘Allez’ paranccsal.
+7.  A mérkőzések előtt a pástra hívott vívók üdvözlik a bírót és az ellenfelet. Az asszók megkezdése előtt a vívók a bíró ‘Állás!’ (‘On guard!’ / ‘En Garde!’) parancsára vívóállásba helyezkednek, és mozdulatlanul várják a mérkőzés indítását. A bíró ‘Kész/Ready/Pret’ kérdésére megerősítő válasz után, vagy negatív válasz hiányában a bíró elindítja az asszót a ’Rajt!’/ ‘Fence!’ / ‘Allez’ paranccsal.
 
-9.  Az asszó akkor fejeződik be amikor a bíró kiadja az ‘ Állj!’, ‘Halt’ vagy ‘Arrêt’ parancsot. A mérkőzés leállításának leggyakoribb okai:
+8.  Az asszó akkor fejeződik be amikor a bíró kiadja az ‘ Állj!’, ‘Halt’ vagy ‘Arrêt’ parancsot. A mérkőzés leállításának leggyakoribb okai:
     1. Érvényes találat esett.
     2. Érvénytelen találat esett, amely megnehezíti a további akciók megítélését.
     3. Az egyik vívó mindkét lábával elhagyta a küzdőteret.
@@ -29,51 +29,56 @@
     7. Sérülés.
     8. Az egyik vívó kéri hogy állítsák meg az asszót.
 
-10.  A vívók kérhetik az asszó megállítását a kezük felemelésével. Ezt bármilyen érvényes indokkal megtehetik (pl felszerelés meghibásodás, sérülés, stb.). Az asszó csak akkor tekinthető megállítottnak, amikor a bíró kiadta az ‘Állj!’/’Halt’/’Arret’ parancsot.
+9.  A vívók kérhetik az asszó megállítását a kezük felemelésével. Ezt bármilyen érvényes indokkal megtehetik (pl felszerelés meghibásodás, sérülés, stb.). Az asszó csak akkor tekinthető megállítottnak, amikor a bíró kiadta az ‘Állj!’/’Halt’/’Arret’ parancsot.
 
-11.  Az asszó kezdetét jelző parancs előtt vagy annak befejezését jelző parancs után indított akciók nem tekinthetők érvényesnek. Az asszó indító parancs kiadása előtti, vagy az asszót megállító parancs kiadása utáni akcióindítás a fegyelmi vétségek első csoportjába tartozik.
+10.  Az asszó kezdetét jelző parancs előtt vagy annak befejezését jelző parancs után indított akciók nem tekinthetők érvényesnek. Az asszó indító parancs kiadása előtti, vagy az asszót megállító parancs kiadása utáni akcióindítás a fegyelmi vétségek első csoportjába tartozik.
 
-12.  Az érvénytelen találatokat a bíró figyelmen kívül hagyhatja, ha egyértelműen tudja követni a további akciókat. 
+11.  Az érvénytelen találatokat a bíró figyelmen kívül hagyhatja, ha egyértelműen tudja követni a további akciókat. 
 
-13.  Abban az esetben, mikor a bíró úgy állítja meg az asszót, hogy egy találatot érvénytelennek hitt és figyelmen kívül hagyott a megállítást kiváltó akció végrehajtását megelőzően, viszont később kiderül, hogy a korábbi találat érvényes volt, akkor a bírónak, ha lehetséges, az első érvényes találatot figyelembe véve kell döntést hoznia, akkor is, ha ennek eredményeképpen érvényteleníteni kell más, később esett találatokat.
+12.  Abban az esetben, mikor a bíró úgy állítja meg az asszót, hogy egy találatot érvénytelennek hitt és figyelmen kívül hagyott a megállítást kiváltó akció végrehajtását megelőzően, viszont később kiderül, hogy a korábbi találat érvényes volt, akkor a bírónak, ha lehetséges, az első érvényes találatot figyelembe véve kell döntést hoznia, akkor is, ha ennek eredményeképpen érvényteleníteni kell más, később esett találatokat.
 
-14.  Ha az egyik vívó mindkét lábával teljesen elhagyja a küzdőteret, a bírónak azonnal meg kell állítania az asszót.
+13.  Ha az egyik vívó mindkét lábával teljesen elhagyja a küzdőteret, a bírónak azonnal meg kell állítania az asszót.
 
-15.  Ha az egyik vívó mindkét lábával teljesen elhagyta a küzdőteret, a bíró érvénytelenít minden olyan akciót, amit a vívók küzdőtér elhagyása után indítottak.
+14.  Ha az egyik vívó mindkét lábával teljesen elhagyta a küzdőteret, a bíró érvénytelenít minden olyan akciót, amit a vívók küzdőtér elhagyása után indítottak.
 
-16.  Az a találat, amit a küzdőteret csak egyik lábával elhagyó vívó ért el, érvényesnek kell tekinteni, amennyiben az akciót az asszó megállítása előtt kezdte meg, akkor is, ha a vívó ezután teljesen elhagyta a küzdőteret.
+15.  Az a találat, amit a küzdőteret csak egyik lábával elhagyó vívó ért el, érvényesnek kell tekinteni, amennyiben az akciót az asszó megállítása előtt kezdte meg, akkor is, ha a vívó ezután teljesen elhagyta a küzdőteret.
 
-17.  Ha az egyik vívó mindkét lábával elhagyja a küzdőteret anélkül hogy a kilépés előtt érvényes találatot adott volna le, a bíró a következőképpen jár el:
+16.  Ha az egyik vívó mindkét lábával elhagyja a küzdőteret anélkül hogy a kilépés előtt érvényes találatot adott volna le, a bíró a következőképpen jár el:
     1. Az első kilépésnél a vívó figyelmeztetést kap
     2. Minden, a mérkőzésen belüli további esetben a küzdőtereet elhagyó versenyző találatot kapottnak tekintendő.
 
-18.  Az a versenyző, aki akaratán kívül hagyja el a küzdőteret (pl. az ellenfél lökése vagy esés következtében), nem büntetendő.
+17.  Az a versenyző, aki akaratán kívül hagyja el a küzdőteret (pl. az ellenfél lökése vagy esés következtében), nem büntetendő.
 
-19.  Minden érvényes találat után, vagy ha az asszót más okból megállítják (zavart vívás, meghibásodás, sikertelen birkózási kísérlet, stb.), a mérkőzés a felállási vonalról folytatódik, vívóállásból.
+18.  Minden érvényes találat után, vagy ha az asszót más okból megállítják (zavart vívás, meghibásodás, sikertelen birkózási kísérlet, stb.), a mérkőzés a felállási vonalról folytatódik, vívóállásból.
 
-20.  Minden vívónak mérkőzésenként egyszer van lehetősége videó felülvizsgálatot kérni, a csoportban (ha biztosított a videóelemzés) és a kieséses mérkőzéseken is. A videó felülvizsgálat technikai feltételeit az egyenes kieséses mérkőzéseken a szervező köteles biztosítani. Ha a videó felülvizsgálat az azt kérelmező vívó javára változtatja meg a bíró ítéletét, a kérelmező vívó továbbra is megtartja a videókérés lehetőségét.
+19.  Minden vívónak mérkőzésenként egyszer (csapatmérkőzéseken belül körönként egyszer) van lehetősége videó felülvizsgálatot kérni, a csoportban (ha biztosított a videóelemzés) és a kieséses mérkőzéseken is. Mind csapat, mind egyéni versenyszámban csak a páston lévő vívónak van joga kérni a
+videó felülvizsgálatot. A videó felülvizsgálat technikai feltételeit az egyenes kieséses mérkőzéseken a szervező köteles biztosítani. Videobírói eljárásra irányuló kérelem esetén a játékvezető a videós tanácsadóhoz lép, együtt nézik meg a videót, és az akció elemzése után a játékvezető kihirdeti a végső döntését. Ha a videó felülvizsgálat az azt kérelmező vívó javára változtatja meg a bíró ítéletét, a kérelmező vívó továbbra is megtartja a videókérés lehetőségét.
 
-21.  Abban az esetben, ha az idő lejártakor mindkét vívónak ugyanannyi pontja van, a mérkőzés ideje további 1 perccel hosszabbodik, amelyben az első érvényes találat nyeri a mérkőzést (kivéve az együttes találatokat). A hosszabbítás megkezdése előtt a bíró pénzfeldobással megállapítja annak a vívónak a személyét, aki megnyeri a mérkőzést, ha senki nem szerzett döntő találatot a hosszabbításban. A csapat mérkőzésekre vonatkozó szabályokat lásd a '03-általános'/'A csapatmérkőzések menete' bekezdésben.
+20.  Abban az esetben, ha az idő lejártakor mindkét vívónak ugyanannyi pontja van, a mérkőzés ideje további 1 perccel hosszabbodik, amelyben az első érvényes találat nyeri a mérkőzést (kivéve az együttes találatokat). A hosszabbítás megkezdése előtt a bíró pénzfeldobással megállapítja annak a vívónak a személyét, aki megnyeri a mérkőzést, ha senki nem szerzett döntő találatot a hosszabbításban. A csapat mérkőzésekre vonatkozó szabályokat lásd a '03-általános'/'A csapatmérkőzések menete' bekezdésben.
 
-22.  A mérkőzések után a bíró kihirdeti a győztest, és a végső pontszámokat. A vívóknak tisztelegnek a bíróknak és az ellenfélnek, majd kezet fognak az ellenféllel. A kézfogás elutasítása a fegyelmi vétségek harmadik csoportjába tartozik.
+21.  A mérkőzések után a bíró kihirdeti a győztest, és a végső pontszámokat. A vívók tisztelegnek a bíróknak és az ellenfélnek, majd kezet fognak az ellenféllel. A kézfogás elutasítása a fegyelmi vétségek harmadik csoportjába tartozik.
 
-23.  A vívók a körmérkőzések, és minden egyenes kieséses mérkőzés végén, a küzdőtér elhagyása előtt ellenőrzik, és aláírják a pontvezető lapot, melyet a bíró vagy a kisegítő személyzet vezet a mérkőzés alatt. Csapatmérkőzések végén ez a csapatkapitányok feladata.
+22.  A vívók a körmérkőzések, és minden egyenes kieséses mérkőzés végén, a küzdőtér elhagyása előtt ellenőrzik, és aláírják a pontvezető lapot, melyet a bíró vagy a kisegítő személyzet vezet a mérkőzés alatt. Csapatmérkőzések végén ez a csapatkapitányok feladata.
 
-24.  Felszerelés mérkőzés közbeni meghibásodása esetén a bíró 5 perc szünetet engedélyezhet (amely akkor kezdődik, amikor a bíró megbizonyosodott a meghibásodásról). Ez az idő felhasználható az érintett felszerelés kijavítására, vagy cseréjére és ellenőriztetésére. Ha a versenyző nem tudja folytatni a mérkőzést a szünet végéig, a bíró kizárhatja a versenyzőt az adott mérkőzésből. Vö 06-szervezés/Csapatversenyek/3/6
+23.  Felszerelés mérkőzés közbeni meghibásodása esetén a bíró 5 perc szünetet engedélyezhet (amely akkor kezdődik, amikor a bíró megbizonyosodott a meghibásodásról). Ez az idő felhasználható az érintett felszerelés kijavítására, vagy cseréjére és ellenőriztetésére. Ha a versenyző nem tudja folytatni a mérkőzést a szünet végéig, a bíró kizárhatja a versenyzőt az adott mérkőzésből. Vö 06-szervezés/Csapatversenyek/3/6
 
-25.  A mérkőzés során esett sérülés vagy izomgörcs esetén a bíró maximum 10 percig tartó szünetet rendelhet el a sérülés kezelésére (az idő mérése attól kezdődik, amikor a szakképzett személyzet felállította a diagnózist). Ezt az időtartamot a sérülés vagy izomgörcs kezelésére kell fordítani. További megszakítás nem engedélyezhető ugyanazon sérülés miatt az adott mérkőzésen belül. Ha a szakképzett személyzet a 10 perces szünet közben vagy végén a vívót a mérkőzés biztonságos folytatására alkalmatlannak ítéli, visszaléptetheti őt a mérkőzéstől, vagy a versenytől.
+24.  A mérkőzés során esett sérülés vagy izomgörcs esetén a bíró maximum 10 percig tartó szünetet rendelhet el a sérülés kezelésére (az idő mérése attól kezdődik, amikor a szakképzett személyzet felállította a diagnózist). Ezt az időtartamot a sérülés vagy izomgörcs kezelésére kell fordítani. További megszakítás nem engedélyezhető ugyanazon sérülés miatt az adott mérkőzésen belül. Ha a szakképzett személyzet a 10 perces szünet közben vagy végén a vívót a mérkőzés biztonságos folytatására alkalmatlannak ítéli, visszaléptetheti őt a mérkőzéstől, vagy a versenytől.
 
-26.  Abban az esetben, ha az egyik vívó visszalép egy mérkőzéstől a közmérkőzések során felszereléshiba vagy sérülés miatt, az ellenfele lesz kinevezve a mérkőzés győztesének, de az addig elért pontszámot nem törlik. (Ilyen esetben megnyerhető egy mérkőzés úgy is, hogy a vívónak kevesebb pontja van az ellenfélnél, de az elért pontszámok beszámíthatók a rangsor felállításakor.) 
+## Egyéni csoportmérkőzések
 
-27.  Csak egy mérkőzéstől lehet visszalépni a csoportmérkőzések során, ha a vívó egy második mérkőzést sem tudna befejezni, vissza kell lépnie a versenyszámtól. (További versenyszámokban ettől függetlenül versenyezhet.)
+1. Az egyéni csoport mérkőzések ténylegesen vívással töltött 3 percig, vagy addig tartanak, amíg az egyik vívó el nem ér 5 pontot.
 
-28.  Abban az esetben, ha valaki a csoportmérkőzések alatt visszalép a versenyszámtól, az addig elért eredményeit meg kell semmisíteni, és az ellenfeleit kell V0-D0 győztesnek nyilvánítani a körmérkőzés összes mérkőzésében, az addig elért eredmények figyelmen kívül hagyásával. A körmérkőzés során visszalépett vívó nem szerepel az egyenes kieséses rangsor megállapításánál.
+2. Abban az esetben, ha valaki a csoportmérkőzések alatt visszalép a versenyszámtól, az addig elért eredményeit meg kell semmisíteni, és az ellenfeleit kell V0-D0 győztesnek nyilvánítani a körmérkőzés összes mérkőzésében, az addig elért eredmények figyelmen kívül hagyásával. A körmérkőzés során visszalépett vívó nem szerepel az egyenes kieséses rangsor megállapításánál.
 
-29.  Ha egy vívó az utolsó küzdelmétől lépne vissza a csoportmérkőzések során, az eredményeket aszerint kell kezelni, mintha csak egy mérkőzéstől lépett volna vissza (lásd fentebb), de az egyenes kiesés rangsorban már nem vesz részt.
+3.  Ha egy vívó az utolsó küzdelmétől lépne vissza a csoportmérkőzések során, az eredményeket aszerint kell kezelni, mintha csak egy mérkőzéstől lépett volna vissza (lásd fentebb), de az egyenes kiesés rangsorban már nem vesz részt.
 
-30.  Ha egy vívó az egyenes kiesés alatt lép vissza, az ellenfelet nyilvánítják győztesnek, de a visszalépő versenyző nem veszíti el a rangsorban szerzett helyét.
+## Egyéni egyenes kieséses mérkőzések
 
-## A csapatmérkőzések menete
+1. Az egyéni egyenes kieséses mérkőzések ténylegesen vívással töltött 2 * 3 percig tartanak az első 3 perc után 1 perc pihenőidővel, vagy ameddig az egyik vívó el nem éri a 7 pontot.
+
+2. Ha egy vívó az egyenes kiesés alatt lép vissza, az ellenfelet nyilvánítják győztesnek, de a visszalépő versenyző nem veszíti el a rangsorban szerzett helyét.
+
+## Csapatmérkőzések
 
 1. A váltómérkőzés minden egyes „köre” öt találatból áll (5, 10, 15, 20 stb.). Kivételesen a váltó 5-nél, 10-nél, 15-nél stb. többel is végződhet, ha egy vívó, miközben a váltó utolsó érvényes találatát éri el, és egyúttal további büntetőpontot is kap: ebben az esetben mindkét találat számít; az egyes viadalok maximális ideje 2 perc. 
 2. Az első két ellenfél addig vív, amíg egyikük öt találatot nem szerez, 2 perces időhatáron belül. A következő két ellenfél addig vív, amíg az egyik pontszáma el nem éri a tíz találatot, 2 perces időhatáron belül, és így tovább egymást követő, összesített öt találatos viadalokkal.
