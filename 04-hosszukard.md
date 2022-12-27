@@ -43,32 +43,31 @@ figyelembe a „rajta!” előtt és az „állj!” után adott találatokat
 4. A támadás akkor van szabályosan végrehajtva, ha a kar folyamatos nyújtása közben, a penge hegye vagy éle folyamatosan fenyegeti az érvényes találati felületet, megelőzve a támadó lábmunka megindítását.
  
 5. A támadások helyességének elbírálásakor a következőket kell figyelembe venni:
-   1. Az egyszerű támadás, akár közvetlen, akár közvetett, helyesen végrehajtott akkor, ha a kar nyújtása az érvényes találati felületet fenyegető heggyel vagy éllel megelőzi a támadó lábmunka megindítását.
-   2. Az összetett támadás, helyesen végrehajtott akkor, amikor a kar kinyújtásának kezdete az első csel
-   helyes bemutatásánál megelőzi a támadó lábmunka megindítását és a találat legkésőbb annak befejezésekor beérkezik.
+   1. Az egyszerű támadás akár közvetlen, akár közvetett, helyesen végrehajtott akkor, ha a kar nyújtása az érvényes találati felületet fenyegető heggyel vagy éllel megelőzi a támadó lábmunka megindítását.
+   2. Az összetett támadás, helyesen végrehajtott akkor, amikor a kar kinyújtásának kezdete az első csel bemutatásánál megelőzi a támadó lábmunka megindítását és a találat legkésőbb annak befejezésekor beérkezik.
    3. A visszahúzott karral végrehajtott egyszerű vagy összetett akció, lépés vagy cselek nem számíthatók  támadásnak, csak előkészítésnek, melyek lehetőséget nyújtanak egy támadó vagy támadó-védekező ellenakció megindításához.
  
 7. A támadás elsőbbségének megítéléséhez az alábbi tényezőket kell figyelembe venni:
    1. Ha a támadás akkor indul, amikor az ellenfél vonalban van (azaz nyújtott karral, az érvényes találati felületet fenyegető heggyel - hosszúhegy/langort), akkor a támadónak először ki kell térítenie az ellenfél fegyverét. A mérkőzést vezető bírónak figyelnie kell arra, hogy a pengék puszta érintkezése nem tekinthető elégségesnek az ellenfél fegyverének kitérítésére.
-   2. Ha az eltérítést célzó penge keresés sikertelen, az akció joga átkerül az ellenfélhez.
+   2. Ha az eltérítést célzó penge-keresés sikertelen, az akció joga átkerül az ellenfélhez.
    3. Ha a támadás akkor indul, amikor az ellenfél nincs vonalban (pl. Hosszúhegy/Langort), akkor a támadást végre lehet hajtani egyenes szúrással (vágással) vagy kerüléssel, vagy pedig olyan előzetes hatékony cselekkel, amelyek az ellenfelet védésre kényszerítik.
  
 8. Összetett támadások, cselek helyességének elbírálásakor az alábbi tényezőket kell figyelembe venni:
    1. Az összetett támadásoknál a cseleket helyesen kell bemutatni, azaz:
        1. a szúrócselt a kar nyújtásával, miközben a hegy állandóan fenyegeti az érvényes találati felületet;
        2. a vágócselt a kar nyújtásával, miközben a penge és a kar tompa szöget alkot és a penge éle állandóan fenyegeti az érvényes találati felületet.
-   2. Ha az ellenfél egy összetett támadásnál valamelyik csel közben elfogja a pengét és kötéssel megakadályozza annak eredeti útvonalát, jogot nyer a riposztra.
+   2. Ha az ellenfél egy összetett támadásnál valamelyik csel közben elfogja a pengét és kötéssel vagy penge ütéssel megakadályozza annak eredeti útvonalát, jogot nyer a riposztra.
    3. Összetett támadásnál az ellenfélnek joga van közbetámadást végrehajtani. Ahhoz azonban, hogy az érvényes legyen, a közbetámadásnak a támadás befejezését egy vívóidővel meg kell előznie, azaz a közbetámadásnak találnia kell, mielőtt a támadó megkezdte volna támadása befejezésének utolsó mozdulatát.
  
-9. Támadás pengeütéssel:
-   1. Pengeütéses támadásnál a támadás akkor tekinthető helyesen végrehajtottnak és akkor részesül elsőbbségben, amikor a pengeütés az ellenfél pengéjének gyengéjére, azaz a keresztvastól legtávolabb eső 1/2 részére esik.
-   2. Pengeütéses támadásnál, amikor a pengeütés az ellenfél pengéjének erősére esik, azaz a keresztvashoz legközelebb eső 1/2 részére üt, a támadást rosszul végrehajtottnak kell tekinteni és ez a pengeütés elsőbbséget ad az ellenfél azonnali riposztjának.
+9. Támadás pengeütéssel vagy -kötéssel:
+   1. Pengeütéses vagy -kötéses támadásnál a támadás akkor tekinthető helyesen végrehajtottnak és akkor részesül elsőbbségben, amikor a pengeütés az ellenfél pengéjének gyengéjére, azaz a keresztvastól legtávolabb eső 1/2 részére esik.
+   2. Pengeütéses vagy -kötéses támadásnál, amikor a pengeütés az ellenfél pengéjének erősére esik, azaz a keresztvashoz legközelebb eső 1/2 részére üt, a támadást rosszul végrehajtottnak kell tekinteni és ez a pengeütés elsőbbséget ad az ellenfél azonnali riposztjának.
  
 10. Védés
    1. A megfelelően végrehajtott védés jogot ad a riposztra (visszatámadásra): az egyszerű visszavágás (-szúrás) lehet közvetlen vagy közvetett, azonban ahhoz, hogy a támadó minden további akcióját érvénytelenítse, azt azonnal kell végrehajtani határozatlanság vagy szünet nélkül.
    2. Szúrások elleni védésnek az a célja, hogy az megakadályozza a hegy beérkezését a találati felületre, tehát a védés akkor helyes, ha az akció végén az ellenfél hegye nem fenyegeti a védőt.
-   3. A vágások elleni védésnek az a célja, hogy megakadályozza a találat beérkezését arr a találati felületre, amely ellen az ellenfél vágásai irányulnak és az ellenfél hegye nem veszélyeztetni a védőt.
-   4. A védés végrehajtása akkor helyes, amikor a támadó akció befejezése előtt ellenáll az ellenfél találata beérkezésének, lezárva azt a vonalat, amelyben ennek a támadó akciónak be kell fejeződnie és az ellenfél pengéjének a hegyét kitéríti, hogy az ne veszélyeztessen érvényes találati felületet.
+   3. A vágások elleni védésnek az a célja, hogy megakadályozza a találat beérkezését arra a találati felületre, amely ellen az ellenfél vágásai irányulnak és az ellenfél hegye nem veszélyeztetni a védőt.
+   4. A védés végrehajtása akkor helyes, amikor a támadó akció befejezése előtt ellenáll az ellenfél találata beérkezésének, lezárva azt a vonalat, amelyben ennek a támadó akciónak be kell fejeződnie és az ellenfél pengéjének a hegyét megakadályozza az érvényes találati felület veszélyeztetésében.
    5. Ha egy védést helyesen hajtottak végre, az ellenfél támadó akcióját kivédettnek kell minősíteni és ítélni a mérkőzést vezető bírónak még akkor is, ha a támadó pengéjének hajlékonysága miatt annak vége eléri a célba vett felületet -például áthajlik a keresztvas felett a penge.
    6. A támadás elkerülése védésnek számít és annak megfelelően ad riposzt jogot.
  
@@ -82,7 +81,7 @@ figyelembe a „rajta!” előtt és az „állj!” után adott találatokat
 ## A találatok megítélése
 1. Érvényes találatot olyan támadással lehet szerezni, amelynek a meginditásának pillanatában a vívó nem volt közvetlenül fenyegetve ellenfele által.
  
-2. Amikor egy vívómenetben mindkét vívó egyidejűleg találatot, az vagy együttes találat, vagy pedig kettős találat.
+2. Amikor egy vívómenetben mindkét vívó egyidejűleg ad találatot, az vagy együttes találat, vagy pedig kettős találat.
  
 3. Az együttes találat a két vívó támadásának egyidejű elhatározásából és végrehajtásából jön létre; ebben az esetben az alábbiak szerint kell megítélni a pontokat:
    1. Mindkét vívó ellen pontot kell ítélni amennyiben mindkét vívó két kézzel **vagy** mindkét vívó egy kézzel fogta a fegyverét a találat befejezésekor.
