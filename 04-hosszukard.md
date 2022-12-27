@@ -8,19 +8,17 @@
  
 3. Pengén keresztül - amelyek egyidejüleg találják el a test érvényes találati felületét és az ellenfél fegyverét- érkező találatok érvényesek minden olyan alkalommal, amikor tisztán eltalálják az érvényes találati felületet.
  
-4. A markolatgombbal végrehajtott találatok érvényesnek, ha az ellenfél maszkjának borítás nélküli rostélyát találják el jelzés értékűen -akár a gombot kesztyűvel eltakarva- és biztonságosan kivitelezve. A szükségtelen erővel végrehajtott markolatgomb akciók a szabálytalanságok második csoportjában foglaltak szerint büntetendő.
+4. A markolatgombbal végrehajtott találatok érvényesek, ha az ellenfél maszkjának borítás nélküli rostélyát találják el jelzés értékűen -akár a gombot kesztyűvel eltakarva- és biztonságosan kivitelezve. A szükségtelen erővel végrehajtott markolatgomb akciók a szabálytalanságok második csoportjában foglaltak szerint büntetendő.
  
 ## Érvényes találati felület
  
 1. Csak azok a találatok érvényesek, amelyek az érvényes találati felületre esnek.
  
-2. Találati felület a vívó teljes teste, beleértve a fegyver markolatát, a ruházatot és a védőfelszerelést, kivéve a fej hátulja, a gerincfe, a lábfejek és a térdek hátsó része.
+2. Találati felület a vívó teljes teste, beleértve a fegyver markolatát, a ruházatot és a védőfelszerelést, kivéve a fej hátulja, a gerinc, a lábfejek és a térdek hátsó része.
  
-3. Ha egy találat az érvényes találati felületen kívülre érkezik és nem számít találatnak.
+3. Érvénytelen találati felületre érkező vágások és szúrások erősségének megítélése a mérkőzést vezető bíró feladata amitől függően a találatot bevivő vívót köteles a bíró megfelelően büntetni a szabálytalanságok második csoportjában foglaltak szerint.
  
-4. Érvénytelen találati felületre érkező vágások és szúrások erősségének megítélése a mérkőzést vezető bíró feladata amitől függően a találatot bevivő vívót köteles a bíró megfelelően büntetni a szabálytalanságok második csoportjában foglaltak szerint.
- 
-5. A mérkőzést vezető bírónak büntetni kell azt a vívót, aki érvényes találati felületet érvénytelen találati
+4. A mérkőzést vezető bírónak büntetni kell azt a vívót, aki érvényes találati felületet érvénytelen találati
 felülettel helyettesít, akár fedéssel, akár pedig rendellenes mozgással, fegyelmi vétségek első csoportjának megfelelően.
  
 ## A találatok megállapítása vagy érvénytelenítése
@@ -31,6 +29,8 @@ felülettel helyettesít, akár fedéssel, akár pedig rendellenes mozgással, f
  
 3. A találat ténylegességének elbírálásában kizárólag a mérkőzést vezető bíró hozhat végső döntést. Nem veheti
 figyelembe a „rajta!” előtt és az „állj!” után adott találatokat
+
+4. Ha egy találat az érvényes találati felületen kívülre érkezik és nem számít találatnak.
  
 ## A találatok érvényessége és elsőbbsége
  
