@@ -38,7 +38,7 @@ figyelembe a „rajta!” előtt és az „állj!” után adott találatokat
  
 2.  Minden helyesen végrehajtott támadást védeni kell vagy teljesen el kell kerülni és vívómenetet szabályosan végrehajtva kell folytatni.
  
-3.  Támadó lábmunkának számít a kitörés, lépés kitörés, lerohanás (flèche) és dinamikus kereszt lépés. Az előre haladás és lépés előkészítésnek minősül és ezzel az előkészítéssel szemben minden egyszerű támadásnak elsőbbsége van.
+3.  Támadó lábmunkának számít a kitörés, lépés kitörés, lerohanás (flèche) és dinamikus kereszt lépés. A sima keresztlépéses előre haladás és lépés előkészítésnek minősül és ezzel az előkészítéssel szemben minden egyszerű támadásnak elsőbbsége van.
  
 4. A támadás akkor van szabályosan végrehajtva, ha a kar folyamatos nyújtása közben, a penge hegye vagy éle folyamatosan fenyegeti az érvényes találati felületet, megelőzve a támadó lábmunka megindítását.
  
