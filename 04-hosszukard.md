@@ -25,7 +25,7 @@ felülettel helyettesít, akár fedéssel, akár pedig rendellenes mozgással, f
  
 1. A találatok elbírálásának alapját a mérkőzést vezető, az akciót megfigyelő bíró és segédje észlelései képezik.
  
-2. Minden szabálytalanság érvényteleníti a vétkes vívó által adott találatot.
+2. Minden szabálytalanság érvényteleníti a vétkes vívó által adott találatot, amely során a szabálytalanságot elkövette.
  
 3. A találat ténylegességének elbírálásában kizárólag a mérkőzést vezető bíró hozhat végső döntést. Nem veheti
 figyelembe a „rajta!” előtt és az „állj!” után adott találatokat
