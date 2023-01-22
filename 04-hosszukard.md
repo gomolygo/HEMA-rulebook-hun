@@ -64,7 +64,7 @@ figyelembe a „rajta!” előtt és az „állj!” után adott találatokat
    2. Pengeütéses vagy -kötéses támadásnál, amikor a pengeütés az ellenfél pengéjének erősére esik, azaz a keresztvashoz legközelebb eső 1/2 részére üt, a támadást rosszul végrehajtottnak kell tekinteni és ez a pengeütés elsőbbséget ad az ellenfél azonnali riposztjának.
  
 10. Védés
-   1. A megfelelően végrehajtott védés illteve a támadás elkerülése jogot ad a riposztra (visszatámadásra): az egyszerű visszavágás (-szúrás) lehet közvetlen vagy közvetett, azonban ahhoz, hogy a támadó minden további akcióját érvénytelenítse, azt azonnal kell végrehajtani határozatlanság vagy szünet nélkül.
+   1. A megfelelően végrehajtott védés illetve a támadás elkerülése jogot ad a riposztra (visszatámadásra): az egyszerű visszavágás (-szúrás) lehet közvetlen vagy közvetett, azonban ahhoz, hogy a támadó minden további akcióját érvénytelenítse, azt azonnal kell végrehajtani határozatlanság vagy szünet nélkül.
    2. Szúrások elleni védésnek az a célja, hogy az megakadályozza a hegy beérkezését a találati felületre, tehát a védés akkor helyes, ha az akció végén az ellenfél hegye nem fenyegeti a védőt.
    3. A vágások elleni védésnek az a célja, hogy megakadályozza a találat beérkezését arra a találati felületre, amely ellen az ellenfél vágásai irányulnak és az ellenfél hegye nem veszélyeztetni a védőt.
    4. A védés végrehajtása akkor helyes, amikor a támadó akció befejezése előtt ellenáll az ellenfél találata beérkezésének, lezárva azt a vonalat, amelyben ennek a támadó akciónak be kell fejeződnie és az ellenfél pengéjének a hegyét megakadályozza az érvényes találati felület veszélyeztetésében.
