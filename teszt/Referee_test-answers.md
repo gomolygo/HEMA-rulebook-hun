@@ -92,6 +92,14 @@ point for opponent as well.
     1. Point for the attacker based on Vor.
 7. In a longsword bout, one of the fencers starts a simple cut to the opponent's head. The opponent retreats from the lunging opponent, while starting his own cut. Both cuts hit, with little difference. What kind of points should be assigned?
     1. Point for the attacker based on Vor
+8. In a longsword bout, fencer 'A' performs a step-and-lunge continuously, and hits his opponent with a regular simple attack. The fencer 'B' sees the approaching opponent, and starts a lunge at the same time as 'A' lunges. Both hit. What is the call?
+    9. Point for the attack with step-lunge
+8. In a longsword bout, fencer 'A' and fencer 'B' perform attacks with step-and-lunge simultaneously without significant difference. Both hit. What is the call?
+    9. Simultaneous hit, point for both.
+8. In a longsword bout, fencer 'A' and fencer 'B' perform attacks with step-and-lunge simultaneously. 'A' is still looking for the right opening, and only extends their arm in the last moment, while B goes straight for a simple attack. Both hit. What is the call?
+    9. Attack on preparation, point for B.
+8. In a longsword bout, fencer 'A' starts an attack with step-and-lunge, but on seeing the opponent 'B's movement, get cautious in the midst of its execution, causing them to break the movement, lift their weapon back, and continue attacking afterward. The fencer 'B' retreats, stops to provoke 'A's attack and threaten with counter action, and when 'B' sees 'A' faltering, 'B' starts his own attack with a lunge. Both hit. What is the call?
+    9. A's attack failed, point for B's attack.
 8. A fencer asks the referee to explain his judgment of the last assault. What should the referee do?
     1. Explain the judgment clearly and calmly. If the fencer provides information that changes the picture, consider it, and give the final analysis. Ask fencer if they want a video check, if they insist.
 9. A coach asks the referee to explain his judgment of the last assault. What should the referee do?
@@ -352,7 +360,7 @@ Point for the stop hi… ok who are we kidding, srsly. The fencer’s own coach 
 1. What color card is the fencer penalized with, when after she had committed an offence in the 2nd group (red card), she commits an offence of the 1st group for the first time?
     1. Red. No going back to yellow after a red card (within the bout)
 1. What are situations when a fencer gets penalized, but their hit is not annulled by the penalty?
-    1. Leaving the arena with both feet (?!?)
+    1. in general, offences that are committed outside of the action context, and aren't relevant to any hit achieved.
     1. Leaving the arena without permission
     1. Clothing/equipment nonconforming. Absence of regulation weapon
     1. Hitting the arena floor with an uncontrolled action
@@ -361,19 +369,21 @@ Point for the stop hi… ok who are we kidding, srsly. The fencer’s own coach 
     1. Demanding a break for claimed injury/cramp unjustified by the doctor
     1. Fencer disturbing order when in the arena. In the most serious cases the Referee may award a black card immediately.
 1. List 3 different cases when the hit made by a fencer is annulled by a penalty received for his actions.
-    1. Turning back on opponent *
-    1. Covering valid target *
+    1. Turning the back to the opponent (after a perceived hit, before the referee calls halt)
+    1. Covering valid target (substitution) *
     1. Disorderly fencing *
     1. Irregular moves in the arena *; 
     1. twisting or pulling a seized blade *; 
-    1. hits made with violence or during or after accidental falling or accidental dropping of the weapon *; 
-    1. throwing the opponent by lifting their both of their feet off the ground *
-    1. Hitting with the fists and kicking *
-    1. Removing the opponent‘s mask or any other protective equipment. *
-    1. Absence of equipment control marks *
-    1. Throwing the weapon *
-    1. Dangerous, violent or vindictive action. *
-    1. Dishonest fencing *
+    1. hits made with violence
+    2. hits made during or after accidental falling 
+    3. hits made after accidental dropping of the weapon *; 
+    4. throwing the opponent by lifting both of their feet off the ground *
+    5. Hitting with the fists and kicking *
+    6. Removing the opponent‘s mask or any other protective equipment. *
+    7. Absence of equipment control marks *
+    8. Throwing the weapon *
+    9. Dangerous, violent or vindictive action. *
+    10. Dishonest fencing *
 1. What are situations when a fencer can gain two points at once?
     1. The opponent commits an offence that is penalized by a red card, after or during the fencer makes a valid hit. (eg. hits the opponent, just before the opponent leaves the arena with both feet.)
 1. What are situations when both fencers gain one point at once?
@@ -430,4 +440,6 @@ https://www.upmc.com/services/sports-medicine/conditions/concussions
 1. During an assault, there is an action that the referee does not halt. The second looks at the referee, but does not signal, while the fencers continue the assault. What should the referee do?
     1. Let it continue, but pay attention to the assistant, and consult her as soon as possible
 1. What does ‘refereeing consistency within the bout’ mean?
-    1. The referee may make a little mistake in judgments, while directing the first part of the bout. He should not change his judgment for the remainder of the bout even when he realises this, because by that time, the fencers have adapted to his approach, and it would cause an unfair environment to change a principle midway. The referee can change his approach in the next bout.”
+    1. The referee may make a little mistake in judgments, while directing the first part of the bout. 
+    2. If the fencers have already adapted to his calls, he should not abruptly change his judgment for the remainder of the bout. The referee should change his application of the rules in the next bouts.
+    3. It is important that the  efncers should not have the impression that the referee is making arbitrary decisions. Communication and management skills are important to handle any conflict.
